@@ -26,6 +26,7 @@ jobs:
         run: |
           npm install -g @adguard/hostlist-compiler  # 全局安装 hostlist-compiler
           curl -O "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/refs/heads/master/anti-ad-white-list.txt"
+          python -c "with open('anti-ad-white-list.txt', 'r', encoding='utf-8') as file: lines = file.readlines(); with open('anti-ad-white-list.txt', 'w', encoding='utf-8') as file: [file.write('@@||' + line) for line in lines]"
 
       # 执行 hostlist-compiler 命令
       - name: Run Hostlist Compiler
