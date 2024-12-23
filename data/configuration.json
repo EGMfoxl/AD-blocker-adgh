@@ -1,0 +1,54 @@
+{
+  "name": "List name",
+  "sources": [
+    {
+      "name": "small",
+      "source": "https://small.oisd.nl"
+    },
+    {
+      "name": "mini",
+      "source": "https://github.com/badmojr/1Hosts/blob/master/mini/adblock.txt"
+    },
+    {
+      "name": "adb",
+      "source": "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt"
+    },
+    {
+      "name": "cjx-annoyance",
+      "source": "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
+    },
+    {
+      "name": "anti-ad-easylist",
+      "source": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt"
+    },
+    {
+      "name": "anti-ad-adguard",
+      "source": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt"
+    },
+    {
+      "name": "awa-ads-rule",
+      "source": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
+    },
+    {
+      "name": "easylist",
+      "source": "https://easylist.to/easylist/easylist.txt"
+    },
+    {
+      "name": "rule",
+      "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/refs/heads/master/rule.txt"
+    },
+    {
+      "name": "mv",
+      "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/refs/heads/master/mv.txt"
+    }
+  ],
+  "transformations": [
+    "RemoveComments",
+    "Compress",
+    "RemoveModifiers",
+    "Validate",
+    "Deduplicate",
+    "RemoveEmptyLines",
+    "TrimLines"
+  ]
+}
