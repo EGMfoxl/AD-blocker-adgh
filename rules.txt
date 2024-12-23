@@ -2,13 +2,13 @@
 ! Title: MYSEIF
 ! Homepage: https://github.com/EGMfoxl/AD-blocker-adgh
 ! Expires: 12 Hours
-! Version: 2024-12-23 22:55:23（北京时间）
+! Version: 2024-12-23 23:06:13（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 116681
 !
-! Checksum: Hgv5qQjbqPZ27Vxz6DlcIw
+! Checksum: ZZxevg3JHputz75w7aeEFQ
 ! Title: List name
-! Last modified: 2024-12-23T14:55:23.011Z
+! Last modified: 2024-12-23T15:06:12.944Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
