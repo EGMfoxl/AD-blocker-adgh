@@ -1,54 +1,60 @@
 {
-  "name": "List name",
+  "name": "List",
   "sources": [
     {
-      "name": "small",
-      "source": "https://small.oisd.nl"
+      "name": "OSID",
+      "source": "https://small.oisd.nl",
+      "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
-      "name": "mini",
-      "source": "https://github.com/badmojr/1Hosts/blob/master/mini/adblock.txt"
+      "name": "1Hosts",
+      "source": "https://github.com/badmojr/1Hosts/blob/master/mini/adblock.txt",
+      "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
-      "name": "adb",
-      "source": "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt"
+      "name": "10007",
+      "source": "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt",
+      "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
-      "name": "cjx-annoyance",
-      "source": "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
+      "name": "CJX-Annoyance",
+      "source": "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt",
+      "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
-      "name": "anti-ad-easylist",
-      "source": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt"
+      "name": "AnTi-AD-easylist",
+      "source": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt",
+      "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
-      "name": "anti-ad-adguard",
-      "source": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt"
+      "name": "AnTi-AD-adguard",
+      "source": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt",
+      "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
-      "name": "awa-ads-rule",
-      "source": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
+      "name": "AWA-ads-rule",
+      "source": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
+      "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
-      "name": "easylist",
-      "source": "https://easylist.to/easylist/easylist.txt"
+      "name": "Easylist",
+      "source": "https://easylist.to/easylist/easylist.txt",
+      "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
-      "name": "rule",
-      "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/refs/heads/master/rule.txt"
+      "name": "xinggsfrule",
+      "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/refs/heads/master/rule.txt",
+      "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
-      "name": "mv",
-      "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/refs/heads/master/mv.txt"
+      "name": "xinggsfmv",
+      "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/refs/heads/master/mv.txt",
+      "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
+    },
+    {
+      "name": "AnTi-AD-whitelist",
+      "source": "./anti-ad-white-list.txt",
+      "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     }
-  ],
-  "transformations": [
-    "RemoveComments",
-    "Compress",
-    "RemoveModifiers",
-    "Validate",
-    "Deduplicate",
-    "RemoveEmptyLines",
-    "TrimLines"
   ]
 }
