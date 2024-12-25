@@ -2,13 +2,13 @@
 ! Title: MYSEIF
 ! Homepage: https://github.com/EGMfoxl/AD-blocker-adgh
 ! Expires: 12 Hours
-! Version: 2024-12-25 08:58:13（北京时间）
+! Version: 2024-12-25 20:22:58（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 116674
+! Total count: 116679
 !
-! Checksum: Gfym7xWhKIsWYeN9Bwk3fQ
+! Checksum: 67UDMqR+P1eK2uKAA55KUw
 ! Title: List
-! Last modified: 2024-12-25T00:58:12.792Z
+! Last modified: 2024-12-25T12:22:58.023Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -4081,7 +4081,6 @@
 ||adzs.com^
 ||ae-edqfrmstp.one^
 ||ae56c07a5d.7fc6aff494.com^
-||aecuzicmd.com^
 ||aee4e77dc5.com^
 ||aeefpine.com^
 ||aeeg5idiuenbi7erger.com^
@@ -6497,7 +6496,6 @@
 ||asteriskwaspish.com^
 ||asterrakionor.com^
 ||astersrepent.top^
-||astesnlyno.org^
 ||astespurra.com^
 ||astivysauran.com^
 ||astkyureman.com^
@@ -8495,7 +8493,6 @@
 ||bnrslks.com^
 ||bnserving.com^
 ||bnsjb1ab1e.com^
-||bnwffktyqjwrreh.xyz^
 ||bo2ffe45ss4gie.com^
 ||boa.auaesthetics.com^
 ||boa.nolongerset.com^
@@ -8586,7 +8583,6 @@
 ||bonnetacademy.com^
 ||bonnettaking.com^
 ||bonobo.nola.today^
-||bonomans.com^
 ||bonorumarctos.top^
 ||bonosbevvy.com^
 ||bontent.powvideo.net^
@@ -8745,6 +8741,7 @@
 ||bpmvkvb.com^
 ||bpt.webedia-group.com^
 ||bptracking.com^
+||bpxxgkoj.icu^
 ||bpyerxzn.xyz^
 ||bqjqripb.xyz^
 ||bqnxff.xyz^
@@ -9860,6 +9857,7 @@
 ||cdn-bongdadem-net.cdn.ampproject.org^
 ||cdn-cf.postitial.com^
 ||cdn-channels-pixel.ex.co^
+||cdn-gw-dv.vip^
 ||cdn-image.com^
 ||cdn-ketchapp.akamaized.net^
 ||cdn-partners-references.lesoir.be^
@@ -13651,7 +13649,6 @@
 ||dariolunus.com^
 ||darkandlight.ru^
 ||darkenedplane.com^
-||darkercoincidentsword.com^
 ||darkerillegimateillegimateshade.com^
 ||darkerprimevaldiffer.com^
 ||darknesschamberslobster.com^
@@ -14254,7 +14251,6 @@
 ||dexoucheekripsu.net^
 ||dexplatform.com^
 ||dexpredict.com^
-||dexrimewbp.com^
 ||deymalaise.com^
 ||deziloaghop.com^
 ||df0pmigc8xs70.cloudfront.net^
@@ -15394,7 +15390,6 @@
 ||dvser.china.com^
 ||dvv009j588zal.cloudfront.net^
 ||dvvemmg.com^
-||dvypar.com^
 ||dvzkkug.com^
 ||dw-eu.com.com^
 ||dw55pg05c2rl5.cloudfront.net^
@@ -17421,7 +17416,6 @@
 ||fierymint.com^
 ||fierysolemncow.com^
 ||fieslobwg.com^
-||figgq.com^
 ||fightingleatherconspicuous.com^
 ||fightmallowfiasco.com^
 ||fightsedatetyre.com^
@@ -18227,7 +18221,6 @@
 ||ftdunmjs.com^
 ||ftheusysianeduk.com^
 ||ftm.fluencyinc.co^
-||ftmeahbqbemwx.com^
 ||ftslrfl.com^
 ||ftte.fun^
 ||ftte.xyz^
@@ -20373,6 +20366,7 @@
 ||hfeoveukrn.info^
 ||hffxc.com^
 ||hfhppxseee.com^
+||hfisngksng.com^
 ||hfiwcuodr.com^
 ||hfjmvr.xyz^
 ||hfkncj-qalcg.top^
@@ -20795,7 +20789,6 @@
 ||hotwords.com^
 ||houdodoo.net^
 ||houfopsichoa.com^
-||hougriwhabool.net^
 ||houhoumooh.net^
 ||houlaijy.com^
 ||hourglasssealedstraightforward.com^
@@ -21808,7 +21801,6 @@
 ||installer.betterinstaller.com^
 ||installfree.pro^
 ||installnow.pro^
-||installpack.net^
 ||installscolumnist.com^
 ||installslocalweep.com^
 ||installtracker.com^
@@ -22843,7 +22835,6 @@
 ||junkmildredsuffering.com^
 ||junkrat-tire.overbuff.com^
 ||junmediadirect.com^
-||junmediadirect1.com^
 ||jupabwmocgqxeo.com^
 ||jurgeeph.net^
 ||juricts.xyz^
@@ -24529,6 +24520,7 @@
 ||log.pngindir.com^
 ||log.polarisoffice.com^
 ||log.prezi.com^
+||log.pullcenter.live^
 ||log.pvpgang.com^
 ||log.qvb.qcloud.com^
 ||log.radiko.jp^
@@ -25145,6 +25137,7 @@
 ||m4n.nl^
 ||m4su.online^
 ||m5.66077.cn^
+||m51.icu^
 ||m53frvehb.com^
 ||m549z.site^
 ||m583.dailydemocrat.com^
@@ -25249,7 +25242,6 @@
 ||magpie.phil.dev^
 ||magsrv.com^
 ||magtgingleagained.org^
-||magukaudsodo.xyz^
 ||mahaidroagra.com^
 ||maibaume.com^
 ||maichobooy.com^
@@ -28610,7 +28602,6 @@
 ||onrcipthncrjc.com^
 ||onroggenrolaa.com^
 ||onscormation.info^
-||onseleauks.org^
 ||onservantasr.info^
 ||onseviperon.com^
 ||onshowit.com^
@@ -28798,7 +28789,6 @@
 ||opwoga.xyz^
 ||opx.webtool.net^
 ||opximages.webtool.net^
-||oqdkftnubqa.com^
 ||oqejupqb.xyz^
 ||oqnabsatfn.com^
 ||oqpahlskaqal.com^
@@ -32378,6 +32368,7 @@
 ||r255.wmtw.com^
 ||r2d2.aotter.net^
 ||r451.jamanetwork.com^
+||r4u.icu^
 ||r5.dir.bg^
 ||r566.timescall.com^
 ||r5apiliopolyxenes.com^
@@ -34075,6 +34066,7 @@
 ||rvvmynjd.love^
 ||rw.gundogleaker.com^
 ||rw.marchex.io^
+||rwdjrn.icu^
 ||rwtrack.xyz^
 ||rwuannaxztux.com^
 ||rwusvej.com^
@@ -35055,6 +35047,7 @@
 ||sexygirlshd.com^
 ||sexystat.com^
 ||sezonlukdizi.com^
+||sf16-static.i18n-pglstatp.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||sfdsplvyphk.com^
 ||sffsdvc.com^
@@ -35437,6 +35430,7 @@
 ||signingtherebyjeopardize.com^
 ||sihighlyrecom.xyz^
 ||sijillshirvan.com^
+||sikncs.com^
 ||silenceblindness.com^
 ||silenthill24.biz^
 ||silentinevitable.com^
@@ -37049,6 +37043,7 @@
 ||statscollector.sd-rtn.com^
 ||statsforads.com^
 ||statsie.com^
+||statsig.anthropic.com^
 ||statsigapi.net^
 ||statsjs.klevu.com^
 ||statsmobi.com^
@@ -39234,6 +39229,7 @@
 ||towersalighthybrids.com^
 ||towerslady.com^
 ||towersresent.com^
+||towmfs.com^
 ||townhousefilms.com^
 ||townrusisedpriva.org^
 ||townstainpolitician.com^
@@ -39243,7 +39239,6 @@
 ||toyarableits.com^
 ||tozoruaon.com^
 ||tozqvor.com^
-||tozuoi.xyz^
 ||tp.content-score.com^
 ||tp.convertiser.com^
 ||tp.sgcn.com^
@@ -40376,6 +40371,7 @@
 ||twi-hjritecl.world^
 ||twigwisp.com^
 ||twilightsuburbmill.com^
+||twilmii.top^
 ||twinadsrv.com^
 ||twinboutjuly.com^
 ||twinfill.com^
@@ -40949,7 +40945,6 @@
 ||uod2quk646.com^
 ||uoetderxqnv.com^
 ||uogtrmjz.xyz^
-||uojoqx.icu^
 ||uomsogicgi.com^
 ||uonuvcrnert.com^
 ||uoosqk.xyz^
@@ -41141,7 +41136,6 @@
 ||ut13r.space^
 ||utarget.co.uk^
 ||utarget.pro^
-||utarget.ru^
 ||utecsfi.com^
 ||utendpacas.top^
 ||uthorner.info^
@@ -42318,7 +42312,6 @@
 ||wazzeyzlobbj.top^
 ||wbbanner.mrn-news.de^
 ||wbdds.fr.ign.com^
-||wbdds.villaschweppes.com^
 ||wbdqwpu.com^
 ||wbidder.online^
 ||wbidder2.com^
@@ -44434,7 +44427,6 @@
 ||zaphakesleigh.com^
 ||zaphararidged.com^
 ||zapunited.com^
-||zarebasdezaley.com^
 ||zarpop.com^
 ||zationservantas.info^
 ||zatloudredr.com^
@@ -57672,7 +57664,6 @@ Insights
 ||sevynyetox.pro^
 ||sezudya.pro^
 ||sf-ads.io^
-||sf16-static.i18n-pglstatp.com^
 ||sf3-ttcdn-tos.pstatp.com^
 ||sf78.tentaklsistem.click^
 ||sfads.osdn.com^
@@ -65855,6 +65846,7 @@ Insights
 ||asteriresearch.com^
 ||tr.info.astermod.net^
 ||asterpix.com^
+||astesnlyno.org^
 ||astirduller.com^
 ||marketing.astm.org^
 ||adobeanalytic.astoncarter.com^
@@ -68321,6 +68313,7 @@ Insights
 ||bonnieradnetwork.se^
 ||fusion.bonniertidskrifter.se^
 ||fksngj.bonnyread.com.tw^
+||bonomans.com^
 ||esqxrp.bonprix-fl.be^
 ||ilepwo.bonprix.at^
 ||geygin.bonprix.ch^
@@ -72739,6 +72732,7 @@ Insights
 ||dark-utilities.me^
 ||dark-utilities.pw^
 ||dark-utilities.xyz^
+||darkercoincidentsword.com^
 ||count.darkreader.app^
 ||errors.darkreader.app^
 ||statistics.darkreader.app^
@@ -74506,6 +74500,7 @@ Insights
 ||dvkbfj.cn^
 ||dvnfo.com^
 ||trk.dvsystems.com^
+||dvypar.com^
 ||partner.dw.com^
 ||bafybeicnmx2fcaolinpdaiqjo7hgsourg3qzaxf57psdrbqic4qrm4pf3i.ipfs.dweb.link^
 ||bafybeicoo7kwhmnl6q7prd65aimf5byzrihrklgviebm2pkyzyepdaigf4.ipfs.dweb.link^
@@ -78102,6 +78097,7 @@ Insights
 ||dolphin4.ftimg.net^
 ||ftjcfx.com^
 ||ftmcofsmfoebui.xyz^
+||ftmeahbqbemwx.com^
 ||rb3.ftnt.io^
 ||hook.ftp21.cc^
 ||ssl.ftp21.cc^
@@ -81412,6 +81408,7 @@ Insights
 ||a8cv.hotyoga-loive.com^
 ||houbliu.top^
 ||sanalytics.houghtonstatebank.com^
+||hougriwhabool.net^
 ||a8cv.houjin-keitai.com^
 ||wxtz.houmags.com^
 ||content.hourigan.group^
@@ -84682,6 +84679,7 @@ Insights
 ||apac.juniper.net^
 ||content.juniper.net^
 ||forms.juniper.net^
+||junmediadirect1.com^
 ||ioeczq.juno.co.uk^
 ||ojvxtz.junonline.jp^
 ||junshizhanlue.com^
@@ -87899,6 +87897,7 @@ Insights
 ||info.magnuspen.com^
 ||a8clk.store.mago-ch.com^
 ||magr.cloud^
+||magukaudsodo.xyz^
 ||omyvimmw9wsk.t.mahapowerex.eu^
 ||mahimeta.com^
 ||m.maiduoer.com^
@@ -92738,6 +92737,7 @@ Insights
 ||onosyej.icu^
 ||onsafelink.com^
 ||onscroll.com^
+||onseleauks.org^
 ||testbranch.onsequel.com^
 ||onservantas.org^
 ||onthe.io^
@@ -92981,6 +92981,7 @@ Insights
 ||e.oq7d6b.cn^
 ||oqaejin.icu^
 ||oqddkgixmqhovv.xyz^
+||oqdkftnubqa.com^
 ||oqipegjz.icu^
 ||oqkucsxfrcjtho.xyz^
 ||oqnkur.icu^
@@ -103736,6 +103737,7 @@ Insights
 ||data.campaign.toyscenter.it^
 ||wkpjgh.toysrus.pt^
 ||a8cv.toysub.net^
+||tozuoi.xyz^
 ||tp1902abd.com^
 ||tp88trk.com^
 ||tpb.tw^
@@ -105095,6 +105097,7 @@ Insights
 ||uohdvgscgckkpt.xyz^
 ||uohvxrvd.xyz^
 ||w.uohz.cn^
+||uojoqx.icu^
 ||dna.uol.com.br^
 ||logger.uol.com.br^
 ||uoldid.ru^
@@ -105311,6 +105314,7 @@ Insights
 ||lcodff.uta-net.com^
 ||stats.gslc.utah.edu^
 ||t.utahstateaggies.com^
+||utarget.ru^
 ||elq.utas.edu.au^
 ||r2r.utas.edu.au^
 ||utbyvyl.icu^
@@ -109671,6 +109675,7 @@ Insights
 ||marty.zappos.com^
 ||go.zapyle.com^
 ||zarabotaibitok.ru^
+||zarebasdezaley.com^
 ||zarget.com^
 ||go.zartoo.ir^
 ||zaucharo.xyz^
