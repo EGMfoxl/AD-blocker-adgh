@@ -2,13 +2,13 @@
 ! Title: MYSEIF
 ! Homepage: https://github.com/EGMfoxl/AD-blocker-adgh
 ! Expires: 12 Hours
-! Version: 2024-12-26 20:23:25（北京时间）
+! Version: 2024-12-27 08:58:31（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 116423
+! Total count: 116421
 !
-! Checksum: rU7avpLwUmmLvdPbdl9fJQ
+! Checksum: QuBp1QnK7H7M7bOFEHwr8Q
 ! Title: List
-! Last modified: 2024-12-26T12:23:25.433Z
+! Last modified: 2024-12-27T00:58:30.851Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -4115,7 +4115,6 @@
 ||adzs.com^
 ||ae-edqfrmstp.one^
 ||ae56c07a5d.7fc6aff494.com^
-||aee4e77dc5.com^
 ||aeefpine.com^
 ||aeeg5idiuenbi7erger.com^
 ||aeelookithdifyf.com^
@@ -17198,7 +17197,6 @@
 ||fearjav11.fun^
 ||fearplausible.com^
 ||feasteddemeans.shop^
-||featbooksterile.com^
 ||feature-flag-edge.live.clickbus.net^
 ||featured.perfectionholic.com^
 ||featured.premiermedia.net^
@@ -18034,7 +18032,6 @@
 ||franecki.net^
 ||franeski.net^
 ||franticimpenetrableflourishing.com^
-||fratchyaeolist.com^
 ||fraudulentintrusive.com^
 ||frayedpause.com^
 ||frayforms.com^
@@ -20643,7 +20640,6 @@
 ||hooterwas.com^
 ||hootravinedeface.com^
 ||hoowuliz.com^
-||hop.boutique^
 ||hopdream.com^
 ||hopedpluckcuisine.com^
 ||hopefulbiologicaloverreact.com^
@@ -29427,7 +29423,6 @@
 ||paternityfourth.com^
 ||patgsrv.com^
 ||pathfinder.analytics.komoot.net^
-||pathloaded.com^
 ||pathsectorostentatious.com^
 ||patiomistake.com^
 ||patriot.cs.pp.cn^
@@ -30368,7 +30363,6 @@
 ||pnd.gs^
 ||pnekru6pxrum-a.akamaihd.net^
 ||pneumoniaelderlysceptical.com^
-||pneyuaiyuhlf.com^
 ||pnouting.com^
 ||pnpbjt.icu^
 ||pnperf.com^
@@ -32215,7 +32209,6 @@
 ||rabbitsverification.com^
 ||rabblevalenone.com^
 ||rabc1.iteye.com^
-||rabidamoral.com^
 ||rac.ruutu.fi^
 ||raccoon.jaronheard.com^
 ||racecadettyran.com^
@@ -37151,7 +37144,6 @@
 ||strungcourthouse.com^
 ||strungglancedrunning.com^
 ||strvvmpu.com^
-||strwaoz.xyz^
 ||sts.batmobi.net^
 ||stsesc.xyz^
 ||stt.nimbusweb.me^
@@ -37992,7 +37984,6 @@
 ||tberjonk.com^
 ||tbjrtcoqldf.site^
 ||tblnreehmapc.com^
-||tbradshedm.org^
 ||tbudz.co.in^
 ||tbxyuwctmt.com^
 ||tbydnpeykunahn.com^
@@ -40317,7 +40308,6 @@
 ||ucounter.ucoz.net^
 ||ucs.betwaygroup.com^
 ||ucuoknexq.global^
-||udalmancozen.com^
 ||udarem.com^
 ||udbaa.com^
 ||udbdf-v2.nimo.tv^
@@ -40589,7 +40579,6 @@
 ||unhoodikhwan.shop^
 ||unibots.in^
 ||unicainstrumentacao.com.br^
-||unicatethebe.org^
 ||unicume.com^
 ||unidentifiedanalytics.web.app^
 ||unified-ter-na.hismarttv.com^
@@ -40989,7 +40978,6 @@
 ||uwaxoyfklhm.com^
 ||uwdjwfqvxpo.xyz^
 ||uwfcqtdb.xyz^
-||uwilmit.top^
 ||uwjhzeb.com^
 ||uwlzsfo.com^
 ||uwmlmhcjmjvuqy.xyz^
@@ -44863,6 +44851,7 @@ Insights
 ||109xroads.b2bmktg.com^
 ||10gtest.bj2cu.u3.ucweb.com^
 ||10stepswp.advancedtech.com^
+||11.gins.pro^
 ||1105hofanoe4.pro^
 ||1109cygipeta4.pro^
 ||11a5ade414a6a4b9969685db9e96b193.com^
@@ -44993,7 +44982,6 @@ Insights
 ||3h7.oqlf.pro^
 ||3p7jbts3899f.plearoct.click^
 ||3zc.amqn.pro^
-||4-72comcn.click^
 ||4-72comcncnx.click^
 ||4-72comcno.click^
 ||4-72comcnzon.click^
@@ -45090,7 +45078,6 @@ Insights
 ||a1.api.bbc.co.uk^
 ||a1.api.bbc.com^
 ||a1a75627faf61c76a4ff34ad1cc2c644.mskw.pl^
-||a1ri.4cloud.click^
 ||a21130e401e541ad32271edc564f0f13.pyskalo.pl^
 ||a24c14466eaa973262bda8ad1788eecc.bhris.pl^
 ||a32ab6f403c822adb1e99334ac24c953.nmdj.pl^
@@ -45158,7 +45145,6 @@ Insights
 ||account.1192360.sitamet.click^
 ||account.coordinatoins.click^
 ||accountant.trade2022.quest^
-||accountbuyer.pro^
 ||accounts.google.auzen.us.kg^
 ||accounts.setlings.click^
 ||accounts.winniing.click^
@@ -45970,6 +45956,7 @@ Insights
 ||adobe.falabella.com.co^
 ||adobe.falabella.com.pe^
 ||adobe.filmstruck.com^
+||adobe.freewebhostmost.com^
 ||adobe.pmi.org^
 ||adobe.sodimac.cl^
 ||adobe.sukoonglobalhealth.com^
@@ -48195,7 +48182,6 @@ Insights
 ||am0r0usadv6ntures.sbs^
 ||amads.xyz^
 ||amazon-adsystem.com^
-||amazon.ad-ydq.com^
 ||amazon2-api.doctor^
 ||amazon2-update.school^
 ||ambitnykanal.click^
@@ -49667,6 +49653,7 @@ Insights
 ||bawer.pro^
 ||bawerdas-invest.pro^
 ||bay-cove-567-klm.alicja-jaworska.click^
+||bbpan.advisoraml.net^
 ||bbs-range86-179xroads.b2bmktg.com^
 ||bbs-range86-182-vploadbalancer-159xroads.b2bmktg.com^
 ||bc7f1fbd6758a9354e9bb8ad51fbe5b3.wurp.pl^
@@ -50672,6 +50659,7 @@ Insights
 ||corp.sohu.com^
 ||corr-tech.click^
 ||corre-te.click^
+||correos-radio.click^
 ||correosa.click^
 ||correosesxa.click^
 ||corresssc.click^
@@ -50755,7 +50743,6 @@ Insights
 ||crypto-nation-pro.com^
 ||crypto-stuff.pro^
 ||cryptoadvertising.net^
-||cryptoaidhub.pro^
 ||cryptoloot.pro^
 ||cryptowallet24.pro^
 ||crystalesrainying.pro^
@@ -51424,6 +51411,7 @@ Insights
 ||dpd-pl.check-buy1245.shop^
 ||dpd-pl.check-buy1248.shop^
 ||dpd-pl.check-buy1252.shop^
+||dpd-pl.check-buy1262.shop^
 ||dpd-pl.dsajj-dajqti12.pro^
 ||dpd-pl.hajs-onekax.click^
 ||dpd-pl.id810094.pro^
@@ -51735,7 +51723,9 @@ Insights
 ||elonxx.projectprog.click^
 ||eloqua.petchem-update.com^
 ||elqtracking.justadviser.com^
+||elta-couriergr.click^
 ||eltagrs.click^
+||elte-coukier.click^
 ||elymusyomin.click^
 ||elysianelmcam.click^
 ||elzbieta.everadpro.click^
@@ -51813,12 +51803,11 @@ Insights
 ||est-mta.b2b-mail.net^
 ||establishmoment.pro^
 ||estadsfleta.cc^
-||estaefeda.click^
-||estafetaes.click^
 ||estafetal.click^
 ||estasfetat.click^
 ||estateplanning.dependableadvisors.cfd^
 ||et.mobadvent.com^
+||etc-app.click^
 ||etchantmegger.click^
 ||eternalchow.click^
 ||ether-api.com^
@@ -51878,13 +51867,11 @@ Insights
 ||evri.pintoresteg.click^
 ||evri.poa-kut.click^
 ||evri.posutge.click^
-||evri.pousgk.click^
 ||evri.ps-out-eg.click^
 ||evri.psoe-teg.click^
 ||evri.psoiteg.click^
 ||evri.psoitksa.click^
 ||evri.pusuge.click^
-||evri.pusuges.click^
 ||evsonnuqu.advicehigh.quest^
 ||ewew.tentaklsistem.click^
 ||ewuipld.pro^
@@ -51950,11 +51937,11 @@ Insights
 ||face-it.invitehub.pro^
 ||facebook-ads.pl^
 ||facebook-mobiia.click^
+||facebook-mobila.click^
 ||facebook-my-share-live-location.000.pe^
 ||facebook.locationactor.click^
 ||facebookane.click^
 ||faceboolk-mobile.click^
-||faceboolk-moblle.click^
 ||faceit.bitaccept.pro^
 ||faceit.eloconnect.pro^
 ||faceit.live-elo.pro^
@@ -52214,6 +52201,7 @@ Insights
 ||freemoney.pro^
 ||freezermag.click^
 ||freshflair.click^
+||fretyu.is-a-financialadvisor.com^
 ||fridayadvertiser.com^
 ||friendlybcs.pro^
 ||frivol-ads.com^
@@ -52531,7 +52519,6 @@ Insights
 ||google-stare.com^
 ||google-team.pl^
 ||google-vvz.com^
-||google-whq.com^
 ||google.administrateur-business.com^
 ||google.bv-hilden-west.de^
 ||google.com-firewall.online^
@@ -52539,7 +52526,6 @@ Insights
 ||google.olinails.de^
 ||google.periodismosinafan.com^
 ||google.pluto7.com^
-||google.profils-etablissement.com^
 ||google.schreinerei-wohlfart.de^
 ||google.tkshopeeq.com^
 ||google.victorllerena.com^
@@ -52720,7 +52706,6 @@ Insights
 ||help-center-for-business-open-case.mkt6support.cyou^
 ||help-center-for-business-open-case.reappeal.cyou^
 ||help-center-for-business-page-open-case.reappeal.cyou^
-||help.metaauth.click^
 ||helpdesksupportads.web.app^
 ||helpfulduty.pro^
 ||helpinghandsadvocacy.org^
@@ -53168,6 +53153,7 @@ Insights
 ||inpost-pl-mynid2ihxa.pl-dostawa83291.click^
 ||inpost-pl-safe.id-safety.click^
 ||inpost-pl.advous.top^
+||inpost-pl.check-buy1262.shop^
 ||inpost-pl.dostawa00434.click^
 ||inpost-pl.lajiao2.click^
 ||inpost-pl.moe-6541.click^
@@ -53359,6 +53345,7 @@ Insights
 ||isdhflijsdk.top^
 ||isite.baidu.com^
 ||islamabadstores.com^
+||israelpostdental.click^
 ||isspostpostd-vip.click^
 ||istatnenagranie.click^
 ||istnezyczenia.click^
@@ -53741,6 +53728,7 @@ Insights
 ||lanzouz.com^
 ||lap-click.tr.line.me^
 ||lapostefrss.click^
+||lapostejyx.click^
 ||lararforbundet.analytics.ozzi.io^
 ||larukia.pro^
 ||lasedyo9.pro^
@@ -54000,6 +53988,7 @@ Insights
 ||lnpost-pl.check-buy1223.shop^
 ||lnpost-pl.check-buy1238.shop^
 ||lnpost-pl.check-buy1243.shop^
+||lnpost-pl.check-buy1262.shop^
 ||lnpost-pl.check-buy1323.shop^
 ||lnpost-polsca.idpl0527489465.click^
 ||lnpost-polsca.loherpobicetopl03.click^
@@ -54422,7 +54411,6 @@ Insights
 ||mega-ad.de^
 ||megawin88.mobi^
 ||meijutt.tv^
-||mein-yuh-app.tradsafety.com^
 ||melanka.click^
 ||meldunki24h.click^
 ||meloads.com^
@@ -54587,6 +54575,7 @@ Insights
 ||mixers.sina.cn^
 ||mjxads.internet.com^
 ||mkd.8hwo.pro^
+||mkhhnf.dns.army^
 ||mkkla.tentaklsistem.click^
 ||mkt-advertisement.tuhu.cn^
 ||mkt-api.raiffeisen.sk^
@@ -54623,6 +54612,7 @@ Insights
 ||mobi-mobi.info^
 ||mobi.dibongda777.com^
 ||mobi.oleviet777.com^
+||mobicie-facebook.click^
 ||mobile-browser.me^
 ||mobile-click.biz^
 ||mobile-sdk-config.gservice.emarsys.net^
@@ -56075,7 +56065,6 @@ Insights
 ||planobywatelski.click^
 ||plasmaclap.click^
 ||plasmahaul.pro^
-||plataformadigitalweb1.click^
 ||platformainfo.click^
 ||platnosci-konto-update.aktuakont.live^
 ||play-google.pl^
@@ -56241,14 +56230,12 @@ Insights
 ||poslaju-express.click^
 ||posstcloud.click^
 ||post-corp.cc^
-||post-e.click^
 ||post-e.pro^
 ||post.update.fbsbx.com^
 ||postal-corp.com^
 ||postanowienia24.click^
 ||postasdadsa.eu^
 ||postasdadsa.life^
-||postast.click^
 ||postawaspoleczna.click^
 ||postawmynowe.click^
 ||postepsprawy.click^
@@ -57175,6 +57162,7 @@ Insights
 ||scapulaburgoo.click^
 ||scaredpreparation.pro^
 ||scene.vip.xunlei.com^
+||sceom-facebook.click^
 ||schematposta.click^
 ||schematyczne.click^
 ||schowanerzeczy.click^
@@ -57374,7 +57362,6 @@ Insights
 ||servientrega-qa.click^
 ||servientregacm.click^
 ||servientregacx.click^
-||servientregamn.click^
 ||servientregapo.click^
 ||servientregasa.click^
 ||servientregazc.click^
@@ -57722,6 +57709,7 @@ Insights
 ||smartwealthai.pro^
 ||smartxads.com^
 ||smartyads.com^
+||smellyredirect.click^
 ||smetric.ads.microsoft.com^
 ||smetrics.advancedmd.com^
 ||smetrics.advil.com^
@@ -58324,6 +58312,7 @@ Insights
 ||tax-canada2023.co^
 ||taymade1991.com^
 ||tbm.snssdk.com^
+||tbradshedm.org^
 ||tbsolarleads.com^
 ||tc-viet.click^
 ||tcbox.baidu.com^
@@ -58512,7 +58501,6 @@ Insights
 ||togyzii4.pro^
 ||tohedau7.pro^
 ||toingra.click^
-||token-mi.info^
 ||tokenstocks.pro^
 ||tokinou8.pro^
 ||tomog.pro^
@@ -58747,6 +58735,7 @@ Insights
 ||travell2eafenergykrfads.xyz^
 ||trc.adsage.com^
 ||trck.go.emoneyadvisor.com^
+||trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev^
 ||trd.partnereffect.pro^
 ||trejent.wantaolej.pro^
 ||trendflashreports.click^
@@ -58924,7 +58913,6 @@ Insights
 ||uads.digital^
 ||uads.space^
 ||uapi-ads.vivo.com.cn^
-||uaupsa.click^
 ||ubar-pro.ru^
 ||ubar.pro^
 ||uberads.com^
@@ -59046,6 +59034,7 @@ Insights
 ||update-expressvpn.com^
 ||update-helfer.online^
 ||update-info.centrumconsumer.live^
+||update-information-secured.win^
 ||update-java.kit.net^
 ||update-myetherwallet.com^
 ||update-net.com^
@@ -59153,8 +59142,8 @@ Insights
 ||usps-a.click^
 ||usps-ad.info^
 ||usps-e.click^
-||usps-s.click^
 ||usps-t.click^
+||usps.uaupsa.click^
 ||usps.uspac.click^
 ||usps.vip-deliverer.click^
 ||uspsdf.click^
@@ -60147,7 +60136,6 @@ Insights
 ||www.cvhtrfr.dns-dynamic.net^
 ||www.cyber-ad01.cc^
 ||www.darmowe-tankowanie.click^
-||www.dhlworlds.click^
 ||www.dia-traffic.com^
 ||www.directnetadvertising.net^
 ||www.dolanadserver.com^
@@ -60195,12 +60183,13 @@ Insights
 ||www.topbiznes.pro^
 ||www.trustedadviser.co.nz^
 ||www.universal-traffic.com^
-||www.update-information-secured.win^
 ||www.vinted-pro-belgie.com^
+||www.vvww-iloccateon.click^
 ||www.wallet-update.ns01.info^
 ||www.westreclameadvies.nl^
 ||www.whalecashads.com^
 ||www.windhawkadvisors.com^
+||www.www-isrecvrify.click^
 ||www.yandex.inpost-pl-pacid273jks.abun.qhopmusic.icanmining.ru^
 ||www.your-adventure.net^
 ||www.ypmadserver.com^
@@ -76534,6 +76523,7 @@ Insights
 ||fearfulmint.com^
 ||fearlessfaucet.com^
 ||fearlesstramp.com^
+||featbooksterile.com^
 ||featherstage.com^
 ||feathr.co^
 ||feature.fm^
@@ -77629,6 +77619,7 @@ Insights
 ||fsz1.franziskasager.de^
 ||frap.site^
 ||s.fraservotes.com^
+||fratchyaeolist.com^
 ||fraud0.com^
 ||fraudjs.io^
 ||bjpsuk.fray-id.com^
@@ -93428,6 +93419,7 @@ Insights
 ||stat-ssl.pathee.com^
 ||images.info.patheon.com^
 ||pathlime.com^
+||pathloaded.com^
 ||g.pathsha.re^
 ||g.staging.pathsha.re^
 ||link.patient.com^
@@ -94316,6 +94308,7 @@ Insights
 ||data-ssl.pnet.co.za^
 ||data.pnet.co.za^
 ||wyzqiy.pnet.co.za^
+||pneyuaiyuhlf.com^
 ||lol.pnhfc.com^
 ||sxjfhh.pnj.com^
 ||flx2.pnl.agency^
@@ -96091,6 +96084,7 @@ Insights
 ||rabbitcounter.com^
 ||a2.rabbitpre.com^
 ||rabbitrifle.com^
+||rabidamoral.com^
 ||ebis.rabo.cat^
 ||global.raboag.com^
 ||da.rabobank.nl^
@@ -100994,6 +100988,7 @@ Insights
 ||structurerod.com^
 ||struhuts.com^
 ||struq.com^
+||strwaoz.xyz^
 ||telemetry.stryker.com^
 ||plausible.strzibny.name^
 ||cudrqv.sts.pl^
@@ -104446,6 +104441,7 @@ Insights
 ||ucsec1.ucweb.com^
 ||uczzd.com^
 ||uczzd.net^
+||udalmancozen.com^
 ||udamcst.top^
 ||udb3n.icu^
 ||app-link.udex.us^
@@ -104695,6 +104691,7 @@ Insights
 ||vzcfqp.unibet.fr^
 ||unibotscdn.com^
 ||unicast.com^
+||unicatethebe.org^
 ||igjytl.unice.com^
 ||rsuevw.unicef.or.jp^
 ||a8cv.unico-fan.co.jp^
@@ -105143,6 +105140,7 @@ Insights
 ||uweizat.top^
 ||uweriot.top^
 ||uwerpyh.cn^
+||uwilmit.top^
 ||future.uwindsor.ca^
 ||learn.uwindsor.ca^
 ||marketing.uwmedicine.org^
