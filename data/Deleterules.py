@@ -87,8 +87,11 @@ def clean_adblock_rules_in_place(file_path):
     exception_rules = grouped.get('exception', [])
     exception_css_rules = grouped.get('exception_css', [])
 
+    # 确保域名规则是字符串类型并合并
+    domain_rules = [rule for rule in domain_rules]
+
     cleaned_rules = (
-        [rule for rule, _ in domain_rules] +
+        domain_rules +
         [rule for rule, _ in css_rules] +
         generic_rules +
         exception_rules +
