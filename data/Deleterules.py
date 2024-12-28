@@ -1,111 +1,59 @@
 import re
-from collections import defaultdict
 
+# 规则文件路径
+file_path = './rules.txt'
 
-def parse_rule(rule):
-    """解析规则，返回规则类型和主体"""
+# 读取文件内容
+with open(file_path, 'r', encoding='utf-8') as f:
+    rules = [line.strip() for line in f if line.strip() and not line.startswith('!')]
+
+# 检查规则是否为 AdGuard Home 支持的格式
+def is_adguard_home_rule(rule):
+    """检查规则是否为 AdGuard Home 支持的格式"""
     if rule.startswith('||'):
-        return 'domain', rule[2:]  # 域名规则
-    elif rule.startswith('|'):
-        return 'exact', rule[1:]  # 精确匹配
-    elif rule.startswith('#@#'):
-        return 'exception_css', rule[3:]  # CSS 例外规则
-    elif rule.startswith('##'):
-        return 'css', rule[2:]  # CSS 阻止规则
-    elif rule.startswith('@@'):
-        return 'exception', rule[2:]  # 例外规则
+        return True
+    if rule.startswith('|'):
+        return True
+    if rule.startswith('@@'):
+        return True
+    return False
+
+# 过滤出仅 AdGuard Home 支持的规则
+adguard_home_rules = [rule for rule in rules if is_adguard_home_rule(rule)]
+
+# 用于存储最终规则的集合
+allowed_rules = set()
+blocked_rules = set()
+
+# 分别存储允许规则和屏蔽规则
+for rule in adguard_home_rules:
+    if rule.startswith('@@'):
+        allowed_rules.add(rule)
     else:
-        return 'generic', rule  # 通用规则
+        blocked_rules.add(rule)
 
+# 去除冲突规则：如果允许规则存在，则删除相应的屏蔽规则
+final_rules = set()
 
-def group_rules(rules):
-    """按规则类型分组"""
-    grouped = defaultdict(list)
-    for rule in rules:
-        rule_type, body = parse_rule(rule)
-        grouped[rule_type].append((rule, body))
-    return grouped
+for blocked_rule in blocked_rules:
+    # 查找屏蔽规则对应的允许规则
+    if blocked_rule.startswith('||'):
+        exception_rule = '@@' + blocked_rule
+    elif blocked_rule.startswith('|'):
+        exception_rule = '@@' + blocked_rule
+    else:
+        exception_rule = None
+    
+    # 如果对应的允许规则存在，忽略该屏蔽规则
+    if exception_rule not in allowed_rules:
+        final_rules.add(blocked_rule)
 
+# 添加所有的允许规则
+final_rules.update(allowed_rules)
 
-def remove_exact_duplicates(rules):
-    """移除完全重复的规则"""
-    return list(set(rules))
+# 移除重复规则并按字母排序
+final_rules = sorted(final_rules)
 
-
-def remove_subsumed_domain_rules(domain_rules):
-    """移除被包含的域名规则"""
-    trie = {}
-    for rule, domain in domain_rules:
-        node = trie
-        for part in domain.split('.'):
-            if part not in node:
-                node[part] = {}
-            node = node[part]
-        node['__end__'] = rule
-
-    def extract_rules(node):
-        if '__end__' in node:
-            return [node['__end__']]
-        rules = []
-        for key, child in node.items():
-            if key != '__end__':
-                rules.extend(extract_rules(child))
-        return rules
-
-    return extract_rules(trie)
-
-
-def remove_redundant_css_rules(css_rules):
-    """移除冗余 CSS 规则"""
-    cleaned = set(css_rules)
-    for rule, selector in css_rules:
-        for other_rule, other_selector in css_rules:
-            if rule != other_rule and selector in other_selector:
-                cleaned.discard(other_rule)
-    return list(cleaned)
-
-
-def clean_adblock_rules_in_place(file_path):
-    """清理 Adblock 规则并直接覆盖原文件"""
-    with open(file_path, 'r', encoding='utf-8') as f:
-        rules = [line.strip() for line in f if line.strip() and not line.startswith('!')]
-
-    rules = remove_exact_duplicates(rules)
-
-    grouped = group_rules(rules)
-
-    # 处理域名规则
-    domain_rules = grouped.get('domain', [])
-    domain_rules = remove_subsumed_domain_rules(domain_rules)
-
-    # 处理 CSS 规则
-    css_rules = grouped.get('css', [])
-    css_rules = remove_redundant_css_rules(css_rules)
-
-    # 合并所有规则
-    generic_rules = grouped.get('generic', [])
-    exception_rules = grouped.get('exception', [])
-    exception_css_rules = grouped.get('exception_css', [])
-
-    # 确保域名规则是字符串类型并合并
-    domain_rules = [rule for rule in domain_rules]
-
-    cleaned_rules = (
-        domain_rules +
-        [rule for rule, _ in css_rules] +
-        generic_rules +
-        exception_rules +
-        exception_css_rules
-    )
-
-    # 确保所有规则是字符串类型，并排序
-    cleaned_rules = sorted(cleaned_rules)
-
-    # 写回原文件
-    with open(file_path, 'w', encoding='utf-8') as f:
-        f.write("\n".join(cleaned_rules))
-
-
-# 使用示例
-file_path = './rules.txt'  # 输入规则文件路径
-clean_adblock_rules_in_place(file_path)
+# 写回原文件
+with open(file_path, 'w', encoding='utf-8') as f:
+    f.write("\n".join(final_rules))
