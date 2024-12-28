@@ -33,6 +33,7 @@ jobs:
 
       - name: Update Title&ReadMe
         run: |
+          python ./data/Deleterules.py
           python ./data/Update-readme-rules.py
           
       # 提交并推送更改
