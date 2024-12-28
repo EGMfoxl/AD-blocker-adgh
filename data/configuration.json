@@ -55,7 +55,7 @@
       "name": "AnTi-AD-whitelist",
       "source": "./anti-ad-white-list.txt",
       "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
-  ],
+  ]
   "transformations": [
     "RemoveComments",
     "Compress",
