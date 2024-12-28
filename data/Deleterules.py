@@ -47,7 +47,7 @@ def remove_subsumed_domain_rules(domain_rules):
     # 从前缀树提取最小规则集
     def extract_rules(node):
         if '__end__' in node:
-            return [node['__end__']]
+            return [(node['__end__'], '')]  # 保持返回值为 (rule, body) 格式
         rules = []
         for key, child in node.items():
             if key != '__end__':
