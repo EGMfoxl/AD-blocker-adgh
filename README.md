@@ -9,6 +9,7 @@
 <ul>
   
 - **[规则（Github）](https://raw.githubusercontent.com/EGMfoxl/AD-blocker-adgh/refs/heads/main/rules.txt)**
+- **[规则（Ghp）](https://ghgo.xyz/https://raw.githubusercontent.com/EGMfoxl/AD-blocker-adgh/refs/heads/main/rules.txt)**
 - **[规则(jsDelivr(gcore)反代订阅地址)](https://gcore.jsdelivr.net/gh/EGMfoxl/AD-blocker-adgh@main/rules.txt)**
 
 </ul>
