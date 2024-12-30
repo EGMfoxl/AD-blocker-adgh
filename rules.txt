@@ -2,9 +2,9 @@
 ! Title: MYSEIF
 ! Homepage: https://github.com/EGMfoxl/AD-blocker-adgh
 ! Expires: 12 Hours
-! Version: 2024-12-30 09:00:57（北京时间）
+! Version: 2024-12-30 20:23:33（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 116278
+! Total count: 116284
 @@||1dot1dot1dot1.cloudflare-dns.com^
 @@||1sapp.com
 @@||360.cn^
@@ -1846,6 +1846,7 @@
 ||22bettracking.online^
 ||22blqkmkg.de^
 ||22c29c62b3.com^
+||22cbbac9cd.com^
 ||22ccaa.com^
 ||22d2d4d9-0c15-4a3a-9562-384f2c100146.xyz^
 ||22dd31.xyz^
@@ -3277,6 +3278,7 @@
 ||6gute.icu^
 ||6hdw.site^
 ||6j296m8k.de^
+||6ku.icu^
 ||6kwan.com^
 ||6ldu6qa.com^
 ||6nwp0r33a71m.app.dev.cardahealth.com^
@@ -8637,7 +8639,6 @@
 ||adinf.voole.com^
 ||adinfo.aol.com^
 ||adinfo.ra1.xlmc.sec.miui.com^
-||adinfo.support^
 ||adinfuse.com^
 ||adingo.jp^
 ||adinjector.net^
@@ -8898,7 +8899,6 @@
 ||admission.concord.edu^
 ||admission.net^
 ||admissiondemeanourusage.com^
-||admissionmining.com^
 ||admissionreceipt.com^
 ||admissions.easterncollege.ca^
 ||admissions.trios.com^
@@ -25279,7 +25279,6 @@
 ||cdn-cf.postitial.com^
 ||cdn-channels-pixel.ex.co^
 ||cdn-code.host^
-||cdn-gw-dv.vip^
 ||cdn-haokanapk.baidu.com^
 ||cdn-image.com^
 ||cdn-jquery.host^
@@ -26194,7 +26193,6 @@
 ||chilledliquid.com^
 ||chillylanguish.com^
 ||chimerabellowstranger.com^
-||chimneydicier.com^
 ||chimneylouderflank.com^
 ||chimpanzee.designerdailyreport.com^
 ||chimpanzee.ines-papert.com^
@@ -41582,6 +41580,7 @@
 ||fbmedia-bls.com^
 ||fbmedia-ckl.com^
 ||fbmedia-dhs.com^
+||fbmediafor.com^
 ||fbmjc.39yst.com^
 ||fbo-statistics-collector-tc.is.flippingbook.com^
 ||fbofferads.com^
@@ -41615,6 +41614,7 @@
 ||fca6f.icu^
 ||fca88bf71e.632c96af3c.com^
 ||fcb8.mobi^
+||fcc217ae84.com^
 ||fcc222dcb2.fe7fbef413.com^
 ||fccinteractive.com^
 ||fccxgjg.com^
@@ -43311,6 +43311,7 @@
 ||fractionfridgejudiciary.com^
 ||fraer.cloud^
 ||fragpads.com^
+||fragrantanger.com^
 ||frailfederaldemeanour.com^
 ||frailflock.com^
 ||frailfruit.com^
@@ -49300,7 +49301,6 @@
 ||hola.xebel.co^
 ||holaenergy.click^
 ||holahupa.com^
-||holbrooked.top^
 ||holdenthusiastichalt.com^
 ||holder.com.ua^
 ||holdhostel.space^
@@ -50491,7 +50491,6 @@
 ||iclbodnew.pro^
 ||iclickcdn.com^
 ||iclicklw.com^
-||iclimio.top^
 ||iclive.com^
 ||iclnxqe.com^
 ||iclsas.com^
@@ -53411,7 +53410,6 @@
 ||installer.betterinstaller.com^
 ||installfree.pro^
 ||installnow.pro^
-||installpack.net^
 ||installscolumnist.com^
 ||installslocalweep.com^
 ||installtracker.com^
@@ -54774,6 +54772,7 @@
 ||jcfnbhqo.icu^
 ||jcimgi.bestcuckoo.co.kr^
 ||jciwztfj.com^
+||jclimia.top^
 ||jclrwjceymgec.com^
 ||jcm.jd.com^
 ||jcmonitor.xcar.com.cn^
@@ -60091,6 +60090,7 @@
 ||llog.pl^
 ||llogin-mail-update-verif.articulturalland.com^
 ||lloogg.com^
+||llovesgreat.com^
 ||llozybovlozvk.top^
 ||llpgpro.com^
 ||llq9q2lacr.com^
@@ -70866,7 +70866,6 @@
 ||neverthelessdepression.com^
 ||nevillepreserved.com^
 ||new-access802.net^
-||new-bigpenn.com^
 ||new-consigne-sms-track.com^
 ||new-incoming.email^
 ||new-new-years.com^
@@ -72380,6 +72379,7 @@
 ||o398.trumbulltimes.com^
 ||o3gxzoewxl1x.cp.zomro.com^
 ||o3sxhw5ad.com^
+||o3t.icu^
 ||o4nofsh6.de^
 ||o4svlxhjun.xyz^
 ||o4uxrk33.com^
@@ -80782,6 +80782,7 @@
 ||pytaniebezodpowiedzi.click^
 ||pytaniednia.click^
 ||pytanieiodpowiedz.click^
+||pytexb.icu^
 ||python.casuallyprivate.com^
 ||python.jukejuke.app^
 ||pytxsn.najlacnejsisport.sk^
@@ -84859,6 +84860,7 @@
 ||runmixed.com^
 ||runnerbesiegerelative.com^
 ||runningdestructioncleanliness.com^
+||runoffree.bid^
 ||runoj.click^
 ||runpuredead.live^
 ||runslin.com^
@@ -86809,7 +86811,6 @@
 ||sdaiv.com^
 ||sdamcsb.top^
 ||sdapprecv.app.cntvwb.cn^
-||sdarot-il.org^
 ||sdarot-tv.org^
 ||sdarot.cc^
 ||sdata.avid.com^
@@ -97715,6 +97716,7 @@
 ||sullenabonnement.com^
 ||sullentrump.com^
 ||sultrycartonedward.com^
+||sultrytraffic.com^
 ||sulvo.co^
 ||sumarketing.co.uk^
 ||sumatoad.com^
@@ -108527,6 +108529,7 @@
 ||videos.beyazperde.com^
 ||videos.oms.eu^
 ||videos.personneltoday.com^
+||videosev.com^
 ||videosprofitnetwork.com^
 ||videostat-new.index.hu^
 ||videostat.com^
@@ -111790,6 +111793,7 @@
 ||wokenoptionalcohabit.com^
 ||wokeshootdisreputable.com^
 ||wokm8isd4zit.com^
+||wokoez.com^
 ||wokseephishopty.net^
 ||wolaufie.com^
 ||wolf.samarasousa.com^
@@ -112895,6 +112899,7 @@
 ||xalienstreamx.com^
 ||xalzny.xyz^
 ||xameleonads.com^
+||xamniksq.com^
 ||xamssp.icu^
 ||xanalytics.vip^
 ||xanthofin.click^
@@ -112919,6 +112924,7 @@
 ||xbasfbno.info^
 ||xbbhwggj.icu^
 ||xbc8fsvo5w75wwx8.pro^
+||xbfebqya.icu^
 ||xbhbdvly.com^
 ||xbidflare.com^
 ||xblasterads1.com^
