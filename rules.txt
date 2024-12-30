@@ -2,9 +2,9 @@
 ! Title: MYSEIF
 ! Homepage: https://github.com/EGMfoxl/AD-blocker-adgh
 ! Expires: 12 Hours
-! Version: 2024-12-29 20:21:10（北京时间）
+! Version: 2024-12-30 09:00:57（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 116283
+! Total count: 116278
 @@||1dot1dot1dot1.cloudflare-dns.com^
 @@||1sapp.com
 @@||360.cn^
@@ -2524,7 +2524,6 @@
 ||3wr110.xyz^
 ||3wtuan.com^
 ||3wz6z.bchuangpi.cn^
-||3xl.icu^
 ||3xx.vip^
 ||3zap7emt4.com^
 ||3zc.amqn.pro^
@@ -3933,7 +3932,6 @@
 ||98853171.xyz^
 ||988878.com^
 ||98ad3707e5.1fb9ef7e8a.com^
-||98f68cf54e.com^
 ||98hx.cn^
 ||98wjse.top^
 ||990215.xyz^
@@ -6861,7 +6859,6 @@
 ||acquitjeans.com^
 ||acquitmidst.com^
 ||acrasias.wildcatler.click^
-||acrasiatickles.com^
 ||acrebackcharacter.com^
 ||acrelicenseblown.com^
 ||acrepantherrecite.com^
@@ -8710,7 +8707,6 @@
 ||adk2x.com^
 ||adkaora.space^
 ||adkernel.com^
-||adkgeoaajx.com^
 ||adkiemtien123.click^
 ||adklimages.com^
 ||adklip.com^
@@ -11822,7 +11818,6 @@
 ||adukwai.com^
 ||adulateearring.com^
 ||adulateprofessnorth.com^
-||adulatevioletnoncommittal.com^
 ||aduld.click^
 ||adult.xyz^
 ||adult3dcomics.com^
@@ -12793,6 +12788,7 @@
 ||afhjxb.flaconi.de^
 ||afhleads.keurig.ca^
 ||afi-b.com^
+||afi-thor.com^
 ||afi.biyou.web-marketing.ai^
 ||afi.iino.life^
 ||afi.school.web-marketing.ai^
@@ -15611,7 +15607,6 @@
 ||ant.prefinery.com^
 ||ant.september.digital^
 ||antananarbdivu.com^
-||antarcticdashedscuffle.com^
 ||antarcticfiery.com^
 ||antarcticoffended.com^
 ||antaresarcturus.com^
@@ -25749,7 +25744,6 @@
 ||cewrutf.top^
 ||cewukbger.work^
 ||cexofira.com^
-||cextootwcir.com^
 ||cexucetum.com^
 ||ceznscormatio.com^
 ||cezoachu.net^
@@ -27470,7 +27464,6 @@
 ||cm.usatoday.com^
 ||cm8.lycos.com^
 ||cmadserver.de^
-||cmap.alibaba.com^
 ||cmass.massmedian.co.jp^
 ||cmbestsrv.com^
 ||cmc.americanexpress.co.uk^
@@ -34690,7 +34683,6 @@
 ||dipusdream.com^
 ||dipxmakuja.com^
 ||dircont3.com^
-||dirdlabella.com^
 ||dirdoophounu.net^
 ||direct-aws-a1.com^
 ||direct-azr-78.com^
@@ -38008,6 +38000,7 @@
 ||eclkmpbn.com^
 ||eclkmpsa.com^
 ||eclkspbn.com^
+||eclqhkyjqpcv.com^
 ||ecmc.bdimg.com^
 ||ecn-analytics-nssl.emc.com^
 ||ecn-analytics.emc.com^
@@ -42353,7 +42346,6 @@
 ||firmhurrieddetrimental.com^
 ||firmmaintenance.com^
 ||firmware.center^
-||firrectly.top^
 ||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||first-id.fr^
 ||first-rate.com^
@@ -55218,7 +55210,6 @@
 ||jlovoiqtgarh.com^
 ||jlrfx.com^
 ||jltfqoxyhytayy.com^
-||jlvmfdwktmsa.com^
 ||jlxctoig.top^
 ||jlxsgk.com^
 ||jly24aw29n5m-a.akamaihd.net^
@@ -55797,6 +55788,7 @@
 ||jsretra.com^
 ||jss.haoxyx.com^
 ||jssearch.net^
+||jssejsnvdy.com^
 ||jstracker.com^
 ||jsurvey.cn^
 ||jswebcollects.kugou.com^
@@ -61429,7 +61421,6 @@
 ||luggagebuttonlocum.com^
 ||luhhcodutax.com^
 ||luimg.baidu.com^
-||luisardo.com^
 ||lujaqg.e-blooming.com^
 ||lujcig.modaforyou.pl^
 ||lukeaccesspopped.com^
@@ -68584,7 +68575,6 @@
 ||mobday.com^
 ||mobdel.com^
 ||mobdel2.com^
-||mobdrom.ru^
 ||mobee.xyz^
 ||mobexpectationofficially.com^
 ||mobfox.com^
@@ -69517,6 +69507,7 @@
 ||mtoor.com^
 ||mtoxtg.tezenis.com^
 ||mtpint.mobi^
+||mtptaewihgbzcq.com^
 ||mtr.fluor.com^
 ||mtrace.qq.com^
 ||mtrace.ysp.cctv.cn^
@@ -72930,6 +72921,7 @@
 ||ogeeztf.com^
 ||ogercron.com^
 ||ogetherefwukoul.info^
+||ogfaqwwux.com^
 ||ogfba.net^
 ||ogfbb.net^
 ||ogfbc.net^
@@ -82603,6 +82595,7 @@
 ||recyclingproverbintroduce.com^
 ||red-bees.com^
 ||red-direct-n.com^
+||red-just-fit.click^
 ||red-shell.speedrun.com^
 ||red-track.xyz^
 ||redadisappoi.info^
@@ -94071,6 +94064,7 @@
 ||sphc.caring4cancer.com^
 ||spheredkapas.com^
 ||sphostserver.com^
+||spice-sugar.net^
 ||spiceethnic.com^
 ||spicy-combination.pro^
 ||spicy-effect.com^
@@ -96967,6 +96961,7 @@
 ||steinfqwe6782beck.com^
 ||steinsala.viessmann.lu^
 ||stel.telegraaf.nl^
+||stella-nova.click^
 ||stellar-dating2.fun^
 ||stellarmingle.store^
 ||stellaservice.com^
@@ -112671,7 +112666,6 @@
 ||wxb.wxbdfm.com^
 ||wxbaal.ecosa.com.hk^
 ||wxbgf.top^
-||wxcesylikgrypng.com^
 ||wxebye.aboutyou.hu^
 ||wxfdmri.xyz^
 ||wxggtg.dre8.com^
@@ -113767,6 +113761,7 @@
 ||xpzswr.shasa.com^
 ||xq1.net^
 ||xq12.com^
+||xqdbitceeeixnw.com^
 ||xqdwwj.medpeer.jp^
 ||xqeoitqw.site^
 ||xqjqripb.xyz^
