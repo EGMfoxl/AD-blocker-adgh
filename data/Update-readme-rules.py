@@ -3,7 +3,7 @@ from datetime import datetime
 import pytz
 
 # 获取当前北京时间
-beijing_time = datetime.now(pytz.timezone('Asia/Shanghai')).isoformat(sep=' ', timespec='seconds')
+beijing_time = datetime.now(pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
 
 file_path = "rules.txt"
 
