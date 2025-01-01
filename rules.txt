@@ -1,6 +1,6 @@
-! Checksum: vCmlFqvfqFKf2GtSwu/QCg
+! Checksum: YvocmkDDPjxGQGTP6zJv4Q
 ! Title: AdBlockingSources
-! Last modified: 2025-01-01T14:48:25.990Z
+! Last modified: 2025-01-01T14:53:37.887Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -307,10 +307,14 @@
 /(https?:\/\/)216\.21\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
 /(https?:\/\/)51\.195\.31\..{100,}/
+/-ad-/
+/-ad/
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
 /.*\.log\.aliyuncs\.com/
+/.*log(s)?\.[a-z0-9.]*/
+/.+(\.)log\.aliyuncs\.com/
 /[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*\.byteimg\.com/
 /[a-zA-Z0-9.-]*-ad\.sm\.cn/
 /[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com/
@@ -318,11 +322,41 @@
 /[a-zA-Z0-9.-]*-be-pack-sign\.pglstatp-toutiao\.com/
 /[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
 /[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
+/\.ad\./
+/^ad(s)?.*/
 /^https?:\/\/(35|104)\.(\d){1,3}\.(\d){1,3}\.(\d){1,3}\//
 /^https?:\/\/.*(com|net|top|xyz)\/(bundle|warning|style|bootstrap|brand|reset|jquery-ui|styles|error|logo|index|favicon|star|header)\.(png|css)\?[A-Za-z0-9]{30,}.*/
 /^https?:\/\/146\.59\.211\.(\d){1,3}.*/
+/admarvel.*/
+/admaster.*/
+/adsage.*/
+/adsensor.*/
+/adsmogo.*/
+/adsrvmedia.*/
+/adsserving.*/
+/adsystem.*/
+/adwords.*/
+/applovin.*/
+/appsflyer.*/
 /cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com/
+/domob.*/
+/duomeng.*/
+/dwtrack.*/
+/guanggao.*/
 /i*.snssdk.com/
+/omgmta.*/
+/omniture.*/
+/openx.*/
+/pangolin-sdk.*/
+/partnerad.*/
+/pglstatp-toutiao.*/
+/pingfore.*/
+/snssdk.*/
+/socdm.*/
+/supersonicads.*/
+/umeng.*/
+/wlmonitor.*/
+/zjtoolbar.*/
 ://a.ads.
 ://a02342.
 ://ad-api-
@@ -1137,7 +1171,6 @@ register.appsflyersdk.com^
 ||123-stream.org^
 ||123-tracker.com^
 ||123-vendasvoos25.lovestoblog.com^
-||123.duba.net^
 ||123.manga1001.top^
 ||123456.asia^
 ||1234picz.com^
@@ -1830,7 +1863,9 @@ register.appsflyersdk.com^
 ||2325fdrf.fun^
 ||2341929602.dis-my.eu^
 ||2345-sandko-42325.com^
+||2345.cc^
 ||2345.cn^
+||2345.com^
 ||235c440d53.c2529de2cf.com^
 ||237199f0a1.com^
 ||237online.fr^
@@ -2422,6 +2457,7 @@ register.appsflyersdk.com^
 ||35vc.com^
 ||35volitantplimsoles5.com^
 ||360.anatic.net^
+||360.cn^
 ||360.yahoo.com^
 ||360114.xyz^
 ||3601880.xyz^
@@ -2439,10 +2475,12 @@ register.appsflyersdk.com^
 ||360playvid.info^
 ||360popads.com^
 ||360protected.com^
+||360safe.com^
 ||360service.report360.io^
 ||360shuke.com^
 ||360tag.com^
 ||360tag.net^
+||360totalsecurity.com^
 ||360yield-basic.com^
 ||360yield.com^
 ||3614.www3centrum24-pl.es^
@@ -5741,7 +5779,6 @@ register.appsflyersdk.com^
 ||a8clk.lp.yuyu-kenko.co.jp^
 ||a8clk.ma-platform.com^
 ||a8clk.macchialabel.com^
-||a8clk.macpaw.com^
 ||a8clk.manabiz.jp^
 ||a8clk.manage.conoha.jp^
 ||a8clk.mapple-tour.com^
@@ -8566,7 +8603,6 @@ register.appsflyersdk.com^
 ||ad.janalta.com^
 ||ad.jetsoftware.com^
 ||ad.jeune-independant.net^
-||ad.jia.360.cn^
 ||ad.jibunde-esute.com^
 ||ad.jiemian.com^
 ||ad.jorte.com^
@@ -21015,7 +21051,6 @@ register.appsflyersdk.com^
 ||analytics.m7g.twitch.tv^
 ||analytics.macaronikid.com^
 ||analytics.macmms.com^
-||analytics.macpaw.com^
 ||analytics.macro.com^
 ||analytics.macstoreonline.com.mx^
 ||analytics.madgex.com^
@@ -24184,7 +24219,6 @@ register.appsflyersdk.com^
 ||api-launcher-sa.hismarttv.com^
 ||api-live.outgrow.co^
 ||api-logdev.sohatv.vn^
-||api-lytics.macpaw.com^
 ||api-marketolog.mts.ru^
 ||api-mf1.meta.ndmdhs.com^
 ||api-n.outgrow.co^
@@ -29448,6 +29482,7 @@ register.appsflyersdk.com^
 ||baigostapsid.net^
 ||baihoagleewhaum.net^
 ||baihuwang.com^
+||baijiahao.baidu.com
 ||baijs010.shop^
 ||baijs010.xyz^
 ||baijs011.xyz^
@@ -30413,7 +30448,6 @@ register.appsflyersdk.com^
 ||bd-a-1.appmobile.cn^
 ||bd-china-1.appmobile.cn^
 ||bd-js.duote.com^
-||bd-js1.2345.com^
 ||bd-s.baixing.net^
 ||bd.ahsrst.cn^
 ||bd.beimap.com^
@@ -30463,7 +30497,6 @@ register.appsflyersdk.com^
 ||bdckqpofmclr.com^
 ||bdcm.kandianla.com^
 ||bdcmwcl.icu^
-||bdcode.2345.com^
 ||bdcode.35d1.com^
 ||bdcode.qinglm.com^
 ||bdcode.youke.com^
@@ -34939,7 +34972,6 @@ register.appsflyersdk.com^
 ||btyhnbmn289.shop^
 ||btyhnraw653.shop^
 ||bu.ullz.lat^
-||bu1.duba.com^
 ||bu1.vvvdj.com^
 ||bu1vrq.lol^
 ||buasmk.earthshoes.com^
@@ -35964,7 +35996,6 @@ register.appsflyersdk.com^
 ||c.media-dl.co^
 ||c.mibank.com^
 ||c.mnjkw.cn^
-||c.mse.360.cn^
 ||c.msn.com^
 ||c.mtro.co^
 ||c.musicradio.com^
@@ -35989,7 +36020,6 @@ register.appsflyersdk.com^
 ||c.ru.msn.com^
 ||c.rzk-m.com^
 ||c.salon24.pl^
-||c.sayhi.360.cn^
 ||c.se.msn.com^
 ||c.security.org^
 ||c.serwedone.site^
@@ -37020,7 +37050,6 @@ register.appsflyersdk.com^
 ||cardueline.info^
 ||cardvirtual.net^
 ||care.excellence.kaweahhealth.org^
-||care.help.360.cn^
 ||care.mercycare.org^
 ||care.oakstreethealth.com^
 ||care.southeasthealth.org^
@@ -52864,7 +52893,6 @@ register.appsflyersdk.com^
 ||dev.sfbg.com^
 ||dev.smartrbuyer.com^
 ||dev.sswt.co^
-||dev.tg.wan.360.cn^
 ||dev.visualwebsiteoptimizer.com^
 ||dev2pub.com^
 ||dev2seo.com^
@@ -55608,7 +55636,6 @@ register.appsflyersdk.com^
 ||download-shares.com^
 ||download-staging.planify.io^
 ||download-stats.mozilla.org^
-||download.2345.com^
 ||download.56.com^
 ||download.backpackergame.com^
 ||download.bonnti.com^
@@ -56073,6 +56100,7 @@ register.appsflyersdk.com^
 ||driver.jugnoo.in^
 ||drivercontinentcleave.com^
 ||driverequest.com^
+||drivergenius.com^
 ||driveteam2020.com^
 ||drivewayilluminatedconstitute.com^
 ||drivewayperrydrought.com^
@@ -56474,6 +56502,8 @@ register.appsflyersdk.com^
 ||duanno.com^
 ||duapps.com^
 ||duashopbd.com^
+||duba.com^
+||duba.net^
 ||dubai-island.com^
 ||dubdetectioniceberg.com^
 ||dubdiggcofmo.com^
@@ -69350,7 +69380,6 @@ register.appsflyersdk.com^
 ||ggbets.pl^
 ||ggbetss.com^
 ||ggc.cmvideo.cn^
-||ggcode.2345.com^
 ||ggcorp.me^
 ||ggdata1.cnr.cn^
 ||ggdfrl.com^
@@ -73186,7 +73215,6 @@ register.appsflyersdk.com^
 ||guerrilla-links.com^
 ||guerrillahomebrewer.com^
 ||guess-pl.com^
-||guess.h.qhimg.com^
 ||guessdetail.com^
 ||guesspolskapl.com^
 ||guesswhatnews.com^
@@ -73646,7 +73674,6 @@ register.appsflyersdk.com^
 ||h5.dzgsdswh5.xyz^
 ||h5.eagllwin.com^
 ||h5.helenrosi.com^
-||h5.mse.360.cn^
 ||h516.thereporteronline.com^
 ||h52ek3i.de^
 ||h559.stamfordadvocate.com^
@@ -74010,7 +74037,6 @@ register.appsflyersdk.com^
 ||hantsailsyte.com^
 ||hanulsms.com^
 ||hanwdsii.com^
-||hao.360.cn^
 ||hao123.xywy.com^
 ||hao123union.baidu.com^
 ||hao222.com^
@@ -81363,7 +81389,6 @@ register.appsflyersdk.com^
 ||ini-pg.web.app^
 ||ini.inhhome.top^
 ||ini.sh-pp.com^
-||ini.update.360safe.com^
 ||inifdlao.top^
 ||inimbus.com.au^
 ||inistrack.net^
@@ -85584,7 +85609,6 @@ register.appsflyersdk.com^
 ||js.orca-pass.net^
 ||js.our-will.com^
 ||js.passaro-de-fogo.biz^
-||js.passport.qihucdn.com^
 ||js.phoenixmanga.com^
 ||js.ptengine.jp^
 ||js.pulseinsights.com^
@@ -85685,7 +85709,6 @@ register.appsflyersdk.com^
 ||jsonip.com^
 ||jsontdsexit.com^
 ||jsoon.digitiminimi.com^
-||jspassport.ssl.qhimg.com^
 ||jspqms.bellevue-ferienhaus.de^
 ||jsqbxu.peterhahn.co.uk^
 ||jsqsjn.com^
@@ -86761,6 +86784,7 @@ register.appsflyersdk.com^
 ||ke4zii.icu^
 ||keafyy.onlinecomponents.com^
 ||keajs.com^
+||keansoft.cn^
 ||keapbio.com^
 ||kebi1.top^
 ||kebohjhh.xyz^
@@ -88401,7 +88425,6 @@ register.appsflyersdk.com^
 ||ku42hjr2e.com^
 ||kuaibao.qq.com^
 ||kuaifr.camicado.com.br^
-||kuaikan.netmon.360safe.com^
 ||kuaishang.cn^
 ||kuaishang.com.cn^
 ||kuaizip.com^
@@ -90631,7 +90654,6 @@ register.appsflyersdk.com^
 ||liangpinge.com^
 ||lianle.com^
 ||lianmen1.joyyang.com^
-||lianmeng.360.cn^
 ||lianmeng.xgxhy.com^
 ||lianmengapi.snssdk.com^
 ||lianwangtech.com^
@@ -90710,6 +90732,7 @@ register.appsflyersdk.com^
 ||lidodoy.com^
 ||lidsaich.net^
 ||lie2anyone.com^
+||liebao.cn^
 ||liebaovip.com^
 ||lieberation.fr^
 ||liecso.e-himart.co.kr^
@@ -96335,6 +96358,7 @@ register.appsflyersdk.com^
 ||macoms.la^
 ||macory.com^
 ||macos.space^
+||macpaw.com^
 ||macpurifier.com^
 ||macrecoin.com^
 ||macremover.com^
@@ -100406,10 +100430,6 @@ register.appsflyersdk.com^
 ||mckiey.thun.com^
 ||mclarrenlife.com^
 ||mcleaks.fr^
-||mclean.cloud.360safe.com^
-||mclean.f.360.cn^
-||mclean.lato.cloud.360safe.com^
-||mclean.uk.cloud.360safe.com^
 ||mcleanknight.com^
 ||mcleanvahomes.com^
 ||mclerens.com^
@@ -107550,7 +107570,6 @@ register.appsflyersdk.com^
 ||msau.xyz^
 ||msbainfo.fbe.hku.hk^
 ||msbzoz.gonguilsa.com^
-||msch.f.360.cn^
 ||mscoldness.com^
 ||mscs.svaeuzh.cn^
 ||msdesporto.com^
@@ -107624,7 +107643,6 @@ register.appsflyersdk.com^
 ||msnm.com^
 ||msnsearch.srv.girafa.com^
 ||msnsports.com^
-||msoftdl.360.cn^
 ||msonebox.com^
 ||msp-hack.com^
 ||msr.p-antiaging.com^
@@ -108102,10 +108120,6 @@ register.appsflyersdk.com^
 ||mvc07.top^
 ||mvchallenges.s3-website-eu-west-1.amazonaws.com^
 ||mvcngm.xyz^
-||mvconf.cloud.360safe.com^
-||mvconf.f.360.cn^
-||mvconf.lato.cloud.360safe.com^
-||mvconf.uk.cloud.360safe.com^
 ||mvevgi.xyz^
 ||mvfmdfsvoq.com^
 ||mvgteg.primecables.ca^
@@ -116733,7 +116747,6 @@ register.appsflyersdk.com^
 ||openapi.cymera.com^
 ||openapi.guanjia.qq.com^
 ||openbook.net^
-||openbox.mobilem.360.cn^
 ||opencache.com^
 ||opencan.net^
 ||opencandy.com^
@@ -118371,7 +118384,6 @@ register.appsflyersdk.com^
 ||p.smartertravel.com^
 ||p.statp.com^
 ||p.store.qq.com^
-||p.sug.so.com^
 ||p.tradwzorce.top^
 ||p.typekit.net^
 ||p.univide.com^
@@ -119087,7 +119099,6 @@ register.appsflyersdk.com^
 ||papersmytheprinting.com^
 ||papfinder.com^
 ||paphoolred.com^
-||papi.look.360.cn^
 ||papi.mynativeads.com^
 ||papi.stylar.ai^
 ||papiashvili.top^
@@ -128422,6 +128433,7 @@ register.appsflyersdk.com^
 ||qhfcsd.rastaclat.com^
 ||qhicumg.cn^
 ||qhigh.com^
+||qhimg.com^
 ||qhip.com^
 ||qhitz.gazeta-regionalna.com^
 ||qhjm600.com^
@@ -128470,6 +128482,8 @@ register.appsflyersdk.com^
 ||qigongbase.com^
 ||qigongforcancer.com^
 ||qihegiu.com^
+||qihu.com^
+||qihucdn.com^
 ||qiimh.com^
 ||qiiqu.com^
 ||qiitbf.mecklenburg-vorpommern-jobanzeiger.de^
@@ -129208,7 +129222,6 @@ register.appsflyersdk.com^
 ||quqesauocao.pro^
 ||quqtone.cn^
 ||quresdy.top^
-||qurl.f.360.cn^
 ||qurywuy.com^
 ||quspga.xyz^
 ||qusrow.xyz^
@@ -134875,7 +134888,6 @@ register.appsflyersdk.com^
 ||s.1posterhub.com^
 ||s.206solutions.com^
 ||s.344eva.com^
-||s.360.cn^
 ||s.ad131m.com^
 ||s.admathhd.com^
 ||s.adnflow.com^
@@ -135115,7 +135127,6 @@ register.appsflyersdk.com^
 ||s.shopify.com^
 ||s.sick.com^
 ||s.simcoe.com^
-||s.so.360.cn^
 ||s.sofoot.com^
 ||s.soha.vn^
 ||s.sporks.space^
@@ -137485,7 +137496,6 @@ register.appsflyersdk.com^
 ||sdk.ibm.xtify.com^
 ||sdk.inlocomedia.com^
 ||sdk.kokocads.com^
-||sdk.look.360.cn^
 ||sdk.loveota.net^
 ||sdk.m.youku.com^
 ||sdk.markmedia.com.cn^
@@ -140529,7 +140539,6 @@ register.appsflyersdk.com^
 ||shotterzsd.gormandising.store^
 ||shotus.vastkraken.site^
 ||shoubsee.net^
-||shouji.360.cn^
 ||shouji.sogou.com^
 ||shouldbebanned.com^
 ||shouldbelegal.com^
@@ -146076,6 +146085,7 @@ register.appsflyersdk.com^
 ||so.bluewin.ch^
 ||so.boh.com^
 ||so.clzgd.com^
+||so.com^
 ||so.desertschools.org^
 ||so.opentable.co.uk^
 ||so.opentable.com^
@@ -147826,7 +147836,6 @@ register.appsflyersdk.com^
 ||sprintersplay.com^
 ||sprintrade.com^
 ||sprkl.io^
-||spro.so.com^
 ||sproatmonger.shop^
 ||sprocket-assets.s3.amazonaws.com^
 ||sprocket-ping.s3.amazonaws.com^
@@ -149705,7 +149714,6 @@ register.appsflyersdk.com^
 ||stat.*.v-56.com^
 ||stat.10jqka.com.cn^
 ||stat.24liveplus.com^
-||stat.360safe.com^
 ||stat.4u.pl^
 ||stat.5-tv.ru^
 ||stat.56.com^
@@ -149805,7 +149813,6 @@ register.appsflyersdk.com^
 ||stat.lexhub.tech^
 ||stat.liaisons-formation.fr^
 ||stat.liaisons-sociales.fr^
-||stat.m.360.cn^
 ||stat.marshfieldclinic.org^
 ||stat.matichon.co.th^
 ||stat.media^
@@ -149852,7 +149859,6 @@ register.appsflyersdk.com^
 ||stat.russianfood.com^
 ||stat.safeway.com^
 ||stat.scroogefrog.com^
-||stat.sd.360.cn^
 ||stat.segitek.hu^
 ||stat.simba.taobao.com^
 ||stat.smarteca.cz^
@@ -157872,7 +157878,6 @@ register.appsflyersdk.com^
 ||tf-presigned-url-eu-central-1-prod-log-collector-bucket.s3.eu-central-1.amazonaws.com^
 ||tf-presigned-url-eu-west-1-prod-log-collector-bucket.s3.eu-west-1.amazonaws.com^
 ||tf-presigned-url-us-west-2-prod-log-collector-bucket.s3.us-west-2.amazonaws.com^
-||tf.360.cn^
 ||tf3nqz.bond^
 ||tf6k8kzv.live^
 ||tfag.de^
@@ -167376,7 +167381,6 @@ register.appsflyersdk.com^
 ||u-pssud.fr^
 ||u-test.getgoose.com^
 ||u-x.jd.com^
-||u.360.cn^
 ||u.audi-pureprotection.com^
 ||u.btserve.com^
 ||u.buddaa.top^
@@ -168526,7 +168530,6 @@ register.appsflyersdk.com^
 ||union-philippines.com^
 ||union-wifi.com^
 ||union.
-||union.360.cn^
 ||union.56.com^
 ||union.6.cn^
 ||union.baidu.cn^
@@ -174778,7 +174781,6 @@ register.appsflyersdk.com^
 ||wamcash.com^
 ||wamland.com^
 ||wammy.org^
-||wan.2345.com^
 ||wan.douyu.com^
 ||wanadoo.es^
 ||wanadzoo.fr^
@@ -178074,7 +178076,6 @@ register.appsflyersdk.com^
 ||wos.lv^
 ||wosovue.com^
 ||wosoxii.pics^
-||wot.360.cn^
 ||wota-tournament.com^
 ||wotaloe7.pro^
 ||wothrives.com^
@@ -182155,7 +182156,6 @@ register.appsflyersdk.com^
 ||yasintraderzone.com^
 ||yasir-rahman.com^
 ||yast.rutube.ru^
-||yasuo.360.cn^
 ||yatemy.cn^
 ||yatr.ru^
 ||yatrk.xyz^
@@ -182722,6 +182722,7 @@ register.appsflyersdk.com^
 ||ymxu.skin^
 ||ymyile.xyz^
 ||ymynsckwfxxaj.com^
+||ymzx.qq.com^
 ||ynaanj.justestudio.com^
 ||yncfwy.net^
 ||yncjsc.cn^
@@ -183292,6 +183293,7 @@ register.appsflyersdk.com^
 ||yunl1.com^
 ||yunliunet.com^
 ||yunos.com^
+||yunpan.com^
 ||yunqishi8.com^
 ||yunque.pluto.ro^
 ||yunsennet.com^
@@ -184297,7 +184299,6 @@ register.appsflyersdk.com^
 ||zhu-ni-hao-yun.sh^
 ||zhuangxiu567.com^
 ||zhuozhongfangshui.cn^
-||zhushou.2345.com^
 ||zhy333.com^
 ||zhyeqw.mercury.ru^
 ||zi-inpost.cyou^
