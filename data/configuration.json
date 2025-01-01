@@ -2,67 +2,67 @@
   "name": "AdBlockingSources",
   "sources": [
     {
-      "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt",
+      "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt"
     },
     {
-      "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt"
     },
     {
-      "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt"
     },
     {
-      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt"
     },
     {
-      "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+      "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
     },
     {
-      "source": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/AWAvenue-Ads-Rule.txt",
+      "source": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/AWAvenue-Ads-Rule.txt"
     },
     {
-      "source": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Replenish.txt",
+      "source": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Replenish.txt"
     },
     {
-      "source": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
+      "source": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt"
     },
     {
-      "source": "https://raw.githubusercontent.com/cjx82630/cjxlist/refs/heads/master/cjx-annoyance.txt",
+      "source": "https://raw.githubusercontent.com/cjx82630/cjxlist/refs/heads/master/cjx-annoyance.txt"
     },
     {
-      "source": "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",
+      "source": "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt"
     },
     {
-      "source": "https://raw.githubusercontent.com/easylist/easylist/refs/heads/gh-pages/easylist.txt",
+      "source": "https://raw.githubusercontent.com/easylist/easylist/refs/heads/gh-pages/easylist.txt"
     },
     {
-      "source": "https://raw.githubusercontent.com/easylist/easylistchina/refs/heads/master/easylistchina.txt",
+      "source": "https://raw.githubusercontent.com/easylist/easylistchina/refs/heads/master/easylistchina.txt"
     },
     {
-      "source": "https://raw.githubusercontent.com/easylist/easylist/refs/heads/gh-pages/easyprivacy.txt",
+      "source": "https://raw.githubusercontent.com/easylist/easylist/refs/heads/gh-pages/easyprivacy.txt"
     },
     {
-      "source": "https://raw.githubusercontent.com/Goooler/1024_hosts/refs/heads/master/hosts",
+      "source": "https://raw.githubusercontent.com/Goooler/1024_hosts/refs/heads/master/hosts"
     },
     {
-      "source": "https://hblock.molinero.dev/hosts_adblock.txt",
+      "source": "https://hblock.molinero.dev/hosts_adblock.txt"
     },
     {
-      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt"
     },
     {
-      "source": "https://small.oisd.nl",
+      "source": "https://small.oisd.nl"
     },
     {
-      "source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt",
+      "source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt"
     },
     {
-      "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+      "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
     },
     {
-      "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt",
+      "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt"
     },
     {
-      "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt",
+      "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"
     }
   ],
   "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
