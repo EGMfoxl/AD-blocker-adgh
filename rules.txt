@@ -1,6 +1,6 @@
-! Checksum: c+Fs3QW01HJXKgu9vlLGfg
+! Checksum: vCmlFqvfqFKf2GtSwu/QCg
 ! Title: AdBlockingSources
-! Last modified: 2025-01-01T14:45:33.772Z
+! Last modified: 2025-01-01T14:48:25.990Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
