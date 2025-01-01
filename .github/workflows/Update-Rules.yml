@@ -21,19 +21,11 @@ jobs:
         with:
           node-version: '18'  # 选择需要的 Node.js 版本
 
-      # 安装依赖
-      - name: Install dependencies
+      # 生成规则
+      - name: Output rules
         run: |
           npm install -g @adguard/hostlist-compiler  # 全局安装 hostlist-compiler
-
-      # 执行 hostlist-compiler 命令
-      - name: Run Hostlist Compiler
-        run: |
           hostlist-compiler -c ./data/configuration.json -o ./rules.txt  # 输出文件命名为 rules.txt
-
-      - name: Update Title&ReadMe
-        run: |
-         # python ./data/Deleterules.py
           python ./data/Update-readme-rules.py
           
       # 提交并推送更改
