@@ -32,6 +32,11 @@
       "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
+      "name": "AWAvenue_Ads_Rule_Replenish",
+      "source": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Replenish.txt",
+      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
+    },
+    {
       "name": "CatsTeam_DNS",
       "source": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
       "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
