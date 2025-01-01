@@ -6,7 +6,7 @@ import pytz
 beijing_time = datetime.now(pytz.timezone('Asia/Shanghai')).isoformat(sep=' ', timespec='seconds')
 
 # 计算文件的行数
-with open(rules.txt, 'r') as file:
+with open('rules.txt', 'r') as file:
     line_count = sum(1 for _ in file)
 
 # 更新 README.md 中的规则计数和更新时间
