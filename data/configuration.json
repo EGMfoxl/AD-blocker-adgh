@@ -3,87 +3,66 @@
   "sources": [
     {
       "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
-    },
+     },
     {
       "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
       "source": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/AWAvenue-Ads-Rule.txt",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
       "source": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Replenish.txt",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
-    },
+     },
     {
       "source": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
       "source": "https://raw.githubusercontent.com/cjx82630/cjxlist/refs/heads/master/cjx-annoyance.txt",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
       "source": "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
       "source": "https://raw.githubusercontent.com/easylist/easylist/refs/heads/gh-pages/easylist.txt",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
       "source": "https://raw.githubusercontent.com/easylist/easylistchina/refs/heads/master/easylistchina.txt",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
       "source": "https://raw.githubusercontent.com/easylist/easylist/refs/heads/gh-pages/easyprivacy.txt",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
       "source": "https://raw.githubusercontent.com/Goooler/1024_hosts/refs/heads/master/hosts",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
       "source": "https://hblock.molinero.dev/hosts_adblock.txt",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
       "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
       "source": "https://small.oisd.nl",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
       "source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
       "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
       "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     },
     {
       "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt",
-      "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     }
   ],
   "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
