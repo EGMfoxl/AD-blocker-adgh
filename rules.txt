@@ -1,6 +1,6 @@
-! Checksum: P53XbyjSTuiZkky9cFe73Q
+! Checksum: Mp5lZa5cxfJC8IblImBoNQ
 ! Title: AdBlockingSources
-! Last modified: 2025-01-04T12:22:28.406Z
+! Last modified: 2025-01-05T01:04:13.674Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -3680,6 +3680,7 @@ register.appsflyersdk.com^
 ||6vj3du75j.top^
 ||6vulkanvegas.com^
 ||6w1.sharedlinkconnect.com^
+||6w7.icu^
 ||6xtpke4.com^
 ||6y41lvp795r3xm.dis-tv.online^
 ||6yfcuuw.com^
@@ -15126,6 +15127,7 @@ register.appsflyersdk.com^
 ||air9lin1.shop^
 ||airablebuboes.com^
 ||airairgu.com^
+||airakgyl.com^
 ||airanimalcarrier.com^
 ||airartapt.site^
 ||airaujoog.com^
@@ -19523,6 +19525,7 @@ register.appsflyersdk.com^
 ||analytics.connectiverx.com^
 ||analytics.connectjh.com^
 ||analytics.consentmanager.net^
+||analytics.conservativenewsandviews.com^
 ||analytics.console-mobile.aws.dev^
 ||analytics.console.aws.a2z.com^
 ||analytics.console.redhat.com^
@@ -38331,6 +38334,7 @@ register.appsflyersdk.com^
 ||cdxr53.com^
 ||cdxyb.cn^
 ||cdybwjpa.xyz^
+||cdyurlif.top^
 ||cdzhiqing.com^
 ||cdzjqz.gratis.com.tr^
 ||ce-data-collector-api-prod-alb2-1611447619.ap-south-1.elb.amazonaws.com^
@@ -40816,6 +40820,7 @@ register.appsflyersdk.com^
 ||client-uc.heytapmobi.com^
 ||client.botchk.net^
 ||client.c6gj-static.net^
+||client.earnapp.com^
 ||client.fastaff.com^
 ||client.h-vpn.org^
 ||client.haffnetworkam.com^
@@ -41900,6 +41905,7 @@ register.appsflyersdk.com^
 ||collect-us-fy2017.myhomescreen.tv^
 ||collect-us-fy2018.myhomescreen.tv^
 ||collect-v*.51.la^
+||collect.4gtv.tv^
 ||collect.abercrombie.com^
 ||collect.adplogger.no^
 ||collect.adsorb.com^
@@ -42975,6 +42981,7 @@ register.appsflyersdk.com^
 ||connect.news.evergreenhealth.com^
 ||connect.nfd.hcahealthcare.com^
 ||connect.northoaks.org^
+||connect.nosto.com^
 ||connect.ok.ru^
 ||connect.opendoorerp.com^
 ||connect.palomarhealth.org^
@@ -76848,6 +76855,7 @@ register.appsflyersdk.com^
 ||hrenbock.xyz^
 ||hrfdulynyo.xyz^
 ||hrihfiocc.com^
+||hrjciqyu.icu^
 ||hrjctx.xyz^
 ||hrjdmo.rosettastone.co.uk^
 ||hrjg.com.cn^
@@ -90805,6 +90813,7 @@ register.appsflyersdk.com^
 ||lge.met-esm.top^
 ||lgecqrb.com^
 ||lgepbups.xyz^
+||lgforbes.akamaized.net^
 ||lgglobal.ihago.net^
 ||lghsws.europcar.com.au^
 ||lgidskil.top^
@@ -92362,6 +92371,7 @@ register.appsflyersdk.com^
 ||liqwid.net^
 ||liracdn.com^
 ||lirotroodles.com^
+||lirretsn.com^
 ||lis2.beblon.com^
 ||lisaa.fr^
 ||lisacoco.com^
@@ -111647,6 +111657,7 @@ register.appsflyersdk.com^
 ||nmvv.actiprogz.top^
 ||nmwev.actiprogz.top^
 ||nmxxvr.xyz^
+||nmzbrd.icu^
 ||nn.uhhokker.top^
 ||nn3ntv.lat^
 ||nnatrimin.com^
@@ -121548,7 +121559,6 @@ register.appsflyersdk.com^
 ||phanmemgoc.com^
 ||phanmemnet.com^
 ||phanmemshare.com^
-||phanmemvip.net^
 ||phanquang.vn^
 ||phantom.validation-secure.com^
 ||phantom101.duckdns.org^
@@ -137565,6 +137575,7 @@ register.appsflyersdk.com^
 ||scjc.lat^
 ||scjlpq.navitime.co.jp^
 ||scjpqut.cn^
+||scjtfh.xyz^
 ||sckjzfahoizclt.com^
 ||sckr.com^
 ||sckxod.apostrophes.kr^
@@ -140702,7 +140713,6 @@ register.appsflyersdk.com^
 ||shinglelatitude.com^
 ||shinkei-jime.com^
 ||shinnedsoughed.com^
-||shinoriori2023.jp^
 ||shinqueen.com^
 ||shinydictionary.top^
 ||shinygabbleovertime.com^
@@ -168096,6 +168106,7 @@ register.appsflyersdk.com^
 ||uaemarketing.sedgwick.com^
 ||uafkcvpvvelp.com^
 ||uahosnnx.com^
+||uaid.vtwenty.com^
 ||uaiosio.top^
 ||uaiqkjkw.com^
 ||uaiqp.top^
