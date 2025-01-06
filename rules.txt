@@ -1,6 +1,6 @@
-! Checksum: 21zg3t+NtSvOAuuDeC3aLg
+! Checksum: QzJiD+VWWOgpXfH7Bml+mw
 ! Title: AdBlockingSources
-! Last modified: 2025-01-05T12:22:01.502Z
+! Last modified: 2025-01-06T01:02:13.507Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -1433,7 +1433,6 @@ register.appsflyersdk.com^
 ||18pluscard.com^
 ||18pluspics.com^
 ||18plusstore.com^
-||18sexytube.com^
 ||18teengirl.com^
 ||18teensex.com^
 ||18tlm4jee.de^
@@ -1675,7 +1674,6 @@ register.appsflyersdk.com^
 ||1qgxtxd2n.com^
 ||1qi.info^
 ||1qingdao.com^
-||1qkmxbt.com^
 ||1r4g65b63.de^
 ||1r8435gsqldr.com^
 ||1re.info^
@@ -4850,7 +4848,6 @@ register.appsflyersdk.com^
 ||a.jaz-hotel.com^
 ||a.jerkdevice.tv^
 ||a.jivem.site^
-||a.jurnalu.ru^
 ||a.kainpopoy.com^
 ||a.kajgana.com^
 ||a.kambistory.ml^
@@ -6708,7 +6705,6 @@ register.appsflyersdk.com^
 ||a9able.com^
 ||a9ae7df45f.com^
 ||a9cdlq.lol^
-||a9ce112bde.com^
 ||a9d8e7b6i5s.andgino.jp^
 ||a9e5f222f1029c111ccc360e6a6dc2bdb29fcb9b684736946ab10e90.com^
 ||a9o.youlikeboys.com^
@@ -11413,6 +11409,7 @@ register.appsflyersdk.com^
 ||ads.lanistaads.com^
 ||ads.laodongbinhduong.org.vn^
 ||ads.laodongnghean.vn^
+||ads.leovegas.com^
 ||ads.lesbianpersonals.com^
 ||ads.libertas.mk^
 ||ads.liberte.pl^
@@ -11853,6 +11850,7 @@ register.appsflyersdk.com^
 ||ads.track.net^
 ||ads.tradeads.eu^
 ||ads.traderonline.com^
+||ads.travelaudience.com^
 ||ads.treehugger.com^
 ||ads.trendolend.mk^
 ||ads.trinitymirror.co.uk^
@@ -23108,6 +23106,7 @@ register.appsflyersdk.com^
 ||analytics.webmoney.ru^
 ||analytics.webplus.pt^
 ||analytics.webpt.com^
+||analytics.webpushr.com^
 ||analytics.websenso.com^
 ||analytics.websitepridecounseling.com^
 ||analytics.websolute.it^
@@ -25545,6 +25544,7 @@ register.appsflyersdk.com^
 ||app.scene7info.adobe.com^
 ||app.scrpbx.co^
 ||app.seasonshare.com^
+||app.segment.com^
 ||app.segno.org^
 ||app.select.id^
 ||app.selectyourtickets.com^
@@ -28446,7 +28446,6 @@ register.appsflyersdk.com^
 ||avmws.com^
 ||avnads.com^
 ||avndrealouer.fr^
-||avnnqftxioforfr.com^
 ||avo.app^
 ||avoadsservices.com^
 ||avocado.laprovence.com^
@@ -33959,6 +33958,7 @@ register.appsflyersdk.com^
 ||bot.stackbots.com^
 ||bot.streaktrivia.com^
 ||bot.trackall.site^
+||bot.webpushr.com^
 ||bot2.googlerenewals.net^
 ||bota.wildcatler.click^
 ||botakdaddy.com^
@@ -38035,6 +38035,7 @@ register.appsflyersdk.com^
 ||cdn-server.live^
 ||cdn-server.top^
 ||cdn-service.com^
+||cdn-settings.segment.com^
 ||cdn-sitegainer.com^
 ||cdn-social.janrain.com^
 ||cdn-specialdeals.g5e.com^
@@ -38192,6 +38193,7 @@ register.appsflyersdk.com^
 ||cdn.kidoz.net^
 ||cdn.kizan.cloud^
 ||cdn.leightonbroadcasting.com^
+||cdn.leovegas.com^
 ||cdn.listrakbi.com^
 ||cdn.locallogic.co^
 ||cdn.lodeo.io^
@@ -38273,6 +38275,7 @@ register.appsflyersdk.com^
 ||cdn.routy.app^
 ||cdn.rudderlabs.com^
 ||cdn.sdtraff.com^
+||cdn.segment.com^
 ||cdn.segmentify.com^
 ||cdn.selectablemedia.com^
 ||cdn.seline.so^
@@ -38322,6 +38325,7 @@ register.appsflyersdk.com^
 ||cdn.vinit.cloud^
 ||cdn.viowrel.com^
 ||cdn.vue-js.cyou^
+||cdn.webpushr.com^
 ||cdn.weiye.net^
 ||cdn.wenzhangba.cn^
 ||cdn.wg.uproxx.com^
@@ -42003,6 +42007,7 @@ register.appsflyersdk.com^
 ||cokieshins.com^
 ||col-med.com^
 ||col.casa.it^
+||col.eum-appdynamics.com^
 ||col.idealista.com^
 ||col.idealista.it^
 ||col.idealista.pt^
@@ -44578,6 +44583,7 @@ register.appsflyersdk.com^
 ||couponhubspot.com^
 ||couponlanka.com^
 ||coupontic.com^
+||couponxoo.com^
 ||coupsonu.net^
 ||coupteew.com^
 ||couptoug.net^
@@ -45652,7 +45658,10 @@ register.appsflyersdk.com^
 ||csygxdym.com^
 ||csylief.top^
 ||csymrm.24mx.fr^
+||csync-apac.smartadserver.com.akamaized.net^
+||csync-eu.smartadserver.com.akamaized.net^
 ||csync-global.smartadserver.com.edgesuite.net^
+||csync-us.smartadserver.com.akamaized.net^
 ||csync.smartadserver.com.edgesuite.net^
 ||csyqts.tmon.co.kr^
 ||csyys0731.com^
@@ -66496,6 +66505,7 @@ register.appsflyersdk.com^
 ||fr.resolver.msg.global.xiaomi.net^
 ||fr4nth.cfd^
 ||fr7p.cfd^
+||fra-col.eum-appdynamics.com^
 ||fra.jouer.click^
 ||fraalb.cebanatural.com^
 ||fraats.atome3d.com^
@@ -74612,6 +74622,7 @@ register.appsflyersdk.com^
 ||hciaicdbiahibedhae.world^
 ||hciea.xyz^
 ||hcilralhi.com^
+||hcirentgh.360doc.cn^
 ||hciwyv.icu^
 ||hcjarn.parfumsclub.de^
 ||hcjpbc.bikemag.com^
@@ -75068,7 +75079,6 @@ register.appsflyersdk.com^
 ||helpportfolio.info^
 ||helpprora-businessmanageapesater.online^
 ||helpscentrersexist.store^
-||helpwebroot.com^
 ||helvetiaonline.com^
 ||hem41xm47.com^
 ||hemblx.vans.cl^
@@ -75726,6 +75736,7 @@ register.appsflyersdk.com^
 ||hit100.ro^
 ||hit2map.com^
 ||hit37.chark.dk^
+||hitalsli.com^
 ||hitapps.com^
 ||hitbip.com^
 ||hitboom.net^
@@ -77091,7 +77102,6 @@ register.appsflyersdk.com^
 ||htwylt.com^
 ||htxs88.com^
 ||htxwzp.xyz^
-||hty9m.cn^
 ||htye.lat^
 ||htyrmacanbty.com^
 ||htyusiu.top^
@@ -78345,6 +78355,7 @@ register.appsflyersdk.com^
 ||ids-dmp.vpadn.com^
 ||idstatus.sky.com^
 ||idswinpole.casa^
+||idsync.segment.com^
 ||idtargeting.com^
 ||idthecharityc.info^
 ||idting.com^
@@ -78363,6 +78374,7 @@ register.appsflyersdk.com^
 ||idyllicjazz.com^
 ||idyllteapots.com^
 ||idynbff.cn^
+||idyurlio.top^
 ||idziemynaprzod.pics^
 ||ie-business.vodafone.com^
 ||ie-go.experian.com^
@@ -83045,7 +83057,6 @@ register.appsflyersdk.com^
 ||iokhsx.unionmonthly.jp^
 ||iokyvex.com^
 ||iol.io^
-||iolsrikq.xyz^
 ||ionathanortiz.com^
 ||ioncibria.com^
 ||ionfip.dlibdlib.com^
@@ -83170,7 +83181,6 @@ register.appsflyersdk.com^
 ||ipexlabs.com^
 ||ipfind.com^
 ||ipfingerprint.com^
-||ipfnumgrbbgdnjt.com^
 ||ipfrom.com^
 ||ipgeaif.blairmacintyre.me^
 ||ipgeolocation.abstractapi.com^
@@ -85130,6 +85140,7 @@ register.appsflyersdk.com^
 ||jjkopi.com^
 ||jjlgbyd.in^
 ||jjmrmeovo.world^
+||jjplaqyo.icu^
 ||jjpp.lmtjapi.com^
 ||jjthmis.com^
 ||jjvpbstg.com^
@@ -88737,7 +88748,6 @@ register.appsflyersdk.com^
 ||kursatarak.com^
 ||kurtcantellomarketing.com^
 ||kurtisarees.com^
-||kurulum.xyz^
 ||kurzycz.care^
 ||kusciwaqfkaw.com^
 ||kushanleft.site^
@@ -90014,6 +90024,7 @@ register.appsflyersdk.com^
 ||lcsopa.onamae.com^
 ||lctfgw.evernew.ca^
 ||lcthrive.com^
+||lcvwdn.icu^
 ||lcwfab1.com^
 ||lcwfab2.com^
 ||lcwfab3.com^
@@ -90532,7 +90543,6 @@ register.appsflyersdk.com^
 ||leopardfaithfulbetray.com^
 ||leopon.luckycasts.com^
 ||leopon.originalmineral.com^
-||leovegas.com^
 ||leowibe.xyz^
 ||leoyard.com^
 ||leparirien.fr^
@@ -106602,6 +106612,7 @@ register.appsflyersdk.com^
 ||mobile-redirection.com^
 ||mobile-sdk-config.gservice.emarsys.net^
 ||mobile-sdk-resources.jumio.com^
+||mobile-service.segment.com^
 ||mobile-stats.socialquantum.com^
 ||mobile-tracking.bloomberg.com^
 ||mobile-ws.apprissmobile.com^
@@ -106618,6 +106629,7 @@ register.appsflyersdk.com^
 ||mobile.confsettings.com^
 ||mobile.dat.com^
 ||mobile.etiquetaunica.com.br^
+||mobile.eum-appdynamics.com^
 ||mobile.everytap.com^
 ||mobile.excedo.io^
 ||mobile.expensify.com^
@@ -109558,7 +109570,6 @@ register.appsflyersdk.com^
 ||napco.xyz^
 ||naperyhostel.shop^
 ||napgamegiare.net^
-||napgamevn.net^
 ||napimigrans.com^
 ||napimigrans.info^
 ||napitrend.blogspot.hu^
@@ -110473,7 +110484,6 @@ register.appsflyersdk.com^
 ||networkad.nate.com^
 ||networkad.net^
 ||networkads.net^
-||networkadvertising.org^
 ||networkbench.com^
 ||networkinfo.org^
 ||networkingexchange.att.com^
@@ -110537,7 +110547,6 @@ register.appsflyersdk.com^
 ||new-message.co^
 ||new-new-years.com^
 ||new-olx.net-info.shop^
-||new-pressroom.com^
 ||new-programmatic.com^
 ||new-telemetry.insights.video.a2z.com^
 ||new-twinks.com^
@@ -115981,7 +115990,6 @@ register.appsflyersdk.com^
 ||omasatra.com^
 ||omatri.info^
 ||omaumeng.net^
-||omaze.com^
 ||omazeiros.com^
 ||ombfunkajont.com^
 ||omchanseyr.com^
@@ -118404,7 +118412,6 @@ register.appsflyersdk.com^
 ||ovjlccs.xyz^
 ||ovkgvd.mgprojekt.com.pl^
 ||ovkwiz.xyz^
-||ovldbsik.com^
 ||ovmrti.sassyclassy.de^
 ||ovnet.net^
 ||ovnrmvg.cn^
@@ -120817,6 +120824,7 @@ register.appsflyersdk.com^
 ||pdw-usr.userreport.com^
 ||pdweigee.com^
 ||pdweoyw.cn^
+||pdx-col.eum-appdynamics.com^
 ||pdxdxl.xyz^
 ||pdxmobilemusic.com^
 ||pdxubxc.cn^
@@ -126352,6 +126360,7 @@ register.appsflyersdk.com^
 ||profilenetflix.com^
 ||profilenotice.info^
 ||profiler-collector.wshareit.com^
+||profiles.segment.com^
 ||profiline-berlin.de^
 ||profiling.afry.com^
 ||profiling.avandor.com^
@@ -134698,7 +134707,6 @@ register.appsflyersdk.com^
 ||ru-prt-stsdk.vivoglobal.com^
 ||ru-ru.siemensplmevents.com^
 ||ru-stsdk.vivoglobal.com^
-||ru-traffic.com^
 ||ru.feedback.xmpush.global.xiaomi.com^
 ||ru.mst.dns-cloud.net^
 ||ru.net^
@@ -139686,7 +139694,6 @@ register.appsflyersdk.com^
 ||seuranta.finland.fi^
 ||seurantatiedot-varmennus.com^
 ||seusiteseguroaqui.com^
-||seutop.icu^
 ||sev4ifmxa.com^
 ||seveelumus.com^
 ||sevenbuzz.com^
@@ -142290,10 +142297,8 @@ register.appsflyersdk.com^
 ||smartaccess.biz^
 ||smartad.10010.com^
 ||smartad.ee^
-||smartad.mercadolivre.com.br^
 ||smartadnetwork.net^
 ||smartads.statsperform.com^
-||smartadserver.com.akamaized.net^
 ||smartadserver.com^
 ||smartadserver.es^
 ||smartadserver.fr^
@@ -150601,6 +150606,7 @@ register.appsflyersdk.com^
 ||static.schrotundkorn.de^
 ||static.scroll.com^
 ||static.securedtouch.com^
+||static.segment.com^
 ||static.share-videos.se^
 ||static.skimlinks.com^
 ||static.smni.com^
@@ -154536,6 +154542,7 @@ register.appsflyersdk.com^
 ||sycamorestreetcoffeeco.com^
 ||sycockmnioid.top^
 ||sycrgc.xyz^
+||syd-col.eum-appdynamics.com^
 ||sydneygfpink.com^
 ||sydneynswpestcontrol.com^
 ||sydneyskullbase.org^
@@ -159091,7 +159098,6 @@ register.appsflyersdk.com^
 ||thetopbet.com^
 ||thetoptrust.com^
 ||thetorrentz.fr^
-||thetradedesk.com^
 ||thetrafficboss.com^
 ||thetrafficstat.net^
 ||thetravelservices.com^
@@ -159827,6 +159833,7 @@ register.appsflyersdk.com^
 ||tivixv.nutribullet.com^
 ||tivupui.xyz^
 ||tiwubay5.pro^
+||tixoilll.com^
 ||tiya.tracktango247.xyz^
 ||tiypa.com^
 ||tize.no^
@@ -165307,7 +165314,6 @@ register.appsflyersdk.com^
 ||traveladvertising.com^
 ||travelapa.com^
 ||travelasity.com^
-||travelaudience.com^
 ||travelbar.tools^
 ||travelcape.com^
 ||travelcharger.me^
@@ -167905,6 +167911,7 @@ register.appsflyersdk.com^
 ||u542.dailycamera.com^
 ||u55011.com^
 ||u566.chron.com^
+||u57.icu^
 ||u57.muzikguide.com^
 ||u578.wlwt.com^
 ||u595sebqih.com^
@@ -176222,7 +176229,6 @@ register.appsflyersdk.com^
 ||weborama.design^
 ||weborama.fr^
 ||weborama.io^
-||weborama.net^
 ||webp2p.letv.com^
 ||webpage.state.co.nz^
 ||webpagetest.net^
