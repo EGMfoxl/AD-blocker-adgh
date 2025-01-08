@@ -1,6 +1,6 @@
-! Checksum: FNBwN6M9Y1k7egVgvuP4Zg
+! Checksum: UYH79xc8CKN6yWpAvXP8eQ
 ! Title: AdBlockingSources
-! Last modified: 2025-01-07T12:25:16.094Z
+! Last modified: 2025-01-08T00:59:51.132Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -1557,7 +1557,6 @@ register.appsflyersdk.com^
 ||1f7wwaex9rbh.com^
 ||1f84e33459.com^
 ||1f98dc1262.com^
-||1fa028dea6.com^
 ||1fba0da622.dis-plus.site^
 ||1fcf60d54c.com^
 ||1fd92n6t8.de^
@@ -2814,6 +2813,7 @@ register.appsflyersdk.com^
 ||43693dd032.ntfx-pl.autos^
 ||4382922027.adasowa.eu^
 ||4399stat.5054399.com^
+||43a.icu^
 ||43e1628a5f.com^
 ||43ors1osh.com^
 ||43sjmq3hg.com^
@@ -6569,6 +6569,7 @@ register.appsflyersdk.com^
 ||a8dev.hikarinet-s.com^
 ||a8dhee.sbs^
 ||a8dns.webcircle.co.jp^
+||a8e8c59504.com^
 ||a8ec34052d.fb5ab8a79a.com^
 ||a8enquete.eventos.tokyo^
 ||a8hokuro.ike-sunshine.co.jp^
@@ -6970,6 +6971,7 @@ register.appsflyersdk.com^
 ||abc.espritshop.pl^
 ||abc.hkepc.com^
 ||abc.hkepc.net^
+||abc.ruodian360.com^
 ||abc.yebaike.com^
 ||abc80.site^
 ||abcd.5lu.com^
@@ -23954,6 +23956,7 @@ register.appsflyersdk.com^
 ||aorpum.com^
 ||aortismbutyric.com^
 ||aos01070ss.xyz^
+||aos01080ss.xyz^
 ||aosafrica.co.za^
 ||aoscufe.com^
 ||aosmith.advancedtech.com^
@@ -26854,6 +26857,7 @@ register.appsflyersdk.com^
 ||ashaova.life^
 ||asharbambang.blogspot.com^
 ||asharsnihari.com^
+||ashasvsucoce.com^
 ||ashasvsucocesis.com^
 ||ashcdn.com^
 ||ashesrubbishdrop.com^
@@ -32360,6 +32364,7 @@ register.appsflyersdk.com^
 ||bitcoset.com^
 ||bitcowslabels.com^
 ||bitdefender.top^
+||bitdragonapp.monster^
 ||bitefoodtank.com^
 ||bitelux.xyz^
 ||bitemingle.xyz^
@@ -36253,7 +36258,6 @@ register.appsflyersdk.com^
 ||c81.ipanocloud.com^
 ||c81cd15a01.com^
 ||c83cf15c4f.com^
-||c83de17caf.a8e8c59504.com^
 ||c8d.upde.cc^
 ||c8mcnm.rest^
 ||c8wvsz.rest^
@@ -44434,6 +44438,7 @@ register.appsflyersdk.com^
 ||coveritlive.com^
 ||coverlayer.com^
 ||coverstripe.world^
+||covertcourse.com^
 ||covertworldsecurityfinances.com^
 ||coveteddutifulprescribe.com^
 ||covettunica.com^
@@ -45406,6 +45411,7 @@ register.appsflyersdk.com^
 ||csno.app^
 ||csonline-nu.com^
 ||csp-collector.appspot.com^
+||csp-report.marketing.aws.dev^
 ||csp-reporting.cloudflare.com^
 ||csp.prod.saga.co.uk^
 ||csp.secureserver.net^
@@ -51753,6 +51759,7 @@ register.appsflyersdk.com^
 ||dcjaefrbn.xyz^
 ||dcjg1gv1px1h.cloudfront.net^
 ||dcjm-tms.hannoversche-volksbank.de^
+||dcjrdjwf.com^
 ||dckiwt.eataly.com^
 ||dclk.themarker.com^
 ||dclk.themarketer.com^
@@ -52130,6 +52137,7 @@ register.appsflyersdk.com^
 ||dedicationfits.com^
 ||dedicationflamecork.com^
 ||dedispot.com^
+||deditiontowritin.com^
 ||dedot.xyz^
 ||deductionobtained.com^
 ||dedukicationan.info^
@@ -53385,6 +53393,7 @@ register.appsflyersdk.com^
 ||didna.b-cdn.net^
 ||didna.io^
 ||didomi.io^
+||didspack.com^
 ||didtal.com^
 ||didtheyreadit.com^
 ||didzrr.nutraholic.com^
@@ -55883,6 +55892,7 @@ register.appsflyersdk.com^
 ||dqntra.home-to-go.ca^
 ||dqqfrs.qatarairways.com^
 ||dqqfsa.teufelaudio.pl^
+||dqqlwldixzxx.com^
 ||dqrdwz.icu^
 ||dqs3.darjeeling.fr^
 ||dqsfil.pikolinos.com^
@@ -56959,6 +56969,7 @@ register.appsflyersdk.com^
 ||dzd9.cn^
 ||dzdgfp673c1p0.cloudfront.net^
 ||dzdnffs.xyz^
+||dzfilkmol.com^
 ||dzforp.buscape.com.br^
 ||dzfzfv.xyz^
 ||dzgwautxzdtn9.cloudfront.net^
@@ -58012,6 +58023,7 @@ register.appsflyersdk.com^
 ||edchargina.pro^
 ||edcmktg.ashevillechamber.org^
 ||edconsideundence.org^
+||edcvsfr.org^
 ||edcybh.urbannatural.com^
 ||edd1f5ee3c.com^
 ||edd74aba6e.www-plus.eu^
@@ -58214,6 +58226,7 @@ register.appsflyersdk.com^
 ||edwinpenalo.com^
 ||edxyyd.miacar.it^
 ||edymek.net^
+||edyurliw.top^
 ||edyzqk.mecalux.com.br^
 ||ee.impactextend.dk^
 ||ee.m08pe.cn^
@@ -67358,6 +67371,7 @@ register.appsflyersdk.com^
 ||fuzzyerror.com^
 ||fuzzyflavor.com^
 ||fuzzyincline.com^
+||fuzzyvisuals.com^
 ||fuzzyweather.com^
 ||fv-bpmnrzkv.vip^
 ||fv.isttopsd.com^
@@ -68820,6 +68834,7 @@ register.appsflyersdk.com^
 ||germbuzz.com^
 ||germinatewishesholder.com^
 ||germmasonportfolio.com^
+||germyrefeign.com^
 ||gernewt.info^
 ||gerouldin.pics^
 ||gershop.com^
@@ -71508,6 +71523,7 @@ register.appsflyersdk.com^
 ||gollarpulsus.com^
 ||golluu.com^
 ||goload.wecloud.io^
+||goloeaorist.com^
 ||golony.xyz^
 ||golp4elik.com^
 ||golsaiksi.net^
@@ -72138,6 +72154,7 @@ register.appsflyersdk.com^
 ||graulsaun.com^
 ||graungig.xyz^
 ||grauroocm.com^
+||graushauls.xyz^
 ||grauxouzair.com^
 ||grave-orange.pro^
 ||gravecheckbook.com^
@@ -78393,6 +78410,7 @@ register.appsflyersdk.com^
 ||iglegoarous.net^
 ||iglesiaser.xyz^
 ||iglo.skin^
+||igloaptopto.net^
 ||igloohq.com^
 ||iglooprin.com^
 ||iglpx.icu^
@@ -78412,6 +78430,7 @@ register.appsflyersdk.com^
 ||ignorantmethod.pro^
 ||ignore.hot-bbw-tube.com^
 ||ignorerationalize.com^
+||ignoresfahlerz.com^
 ||ignoresphlorol.com^
 ||ignorespurana.com^
 ||ignslkgs.com^
@@ -85306,6 +85325,7 @@ register.appsflyersdk.com^
 ||jokerlulm.com^
 ||jokerly.com^
 ||jokeroo.com^
+||jokersguaiac.shop^
 ||jokerwinning.com^
 ||jokerwoles.com^
 ||joki-foto.de^
@@ -90523,6 +90543,7 @@ register.appsflyersdk.com^
 ||lezhubbs.online^
 ||lezntf.heydudeshoesusa.com^
 ||lezpress.fr^
+||lf1-cdn-tos.bytegoofy.com^
 ||lf8q.online^
 ||lfapbe.quiksilver.co.jp^
 ||lfbowp.talisa.com^
@@ -93725,6 +93746,7 @@ register.appsflyersdk.com^
 ||loavouduleem.net^
 ||loazoapagour.com^
 ||loazuptaice.net^
+||lobatehellion.top^
 ||lobbiessurfman.top^
 ||lobby-x.eu^
 ||lobcoachingllc.com^
@@ -93853,6 +93875,7 @@ register.appsflyersdk.com^
 ||loftknowing.com^
 ||loftsbaacad.com^
 ||loftyeliteseparate.com^
+||lofvmrnpbxqbh.com^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-normal-*.tiktokv.us^
@@ -94557,6 +94580,7 @@ register.appsflyersdk.com^
 ||lokalwerben.t-online.de^
 ||lokamdoric10.net^
 ||lokeriklan.com^
+||loketsaucy.com^
 ||loki.maximonline.ru^
 ||loki.nafs.top^
 ||lokindt.com^
@@ -113177,6 +113201,7 @@ register.appsflyersdk.com^
 ||objects.abcvisiteurs.com^
 ||objects.cfd^
 ||objectsentrust.com^
+||objectsrented.com^
 ||obkp.top^
 ||obkwzi.waa-ultra.com^
 ||obl74.xyz^
@@ -113293,6 +113318,7 @@ register.appsflyersdk.com^
 ||oc2tdxocb3ae0r.com^
 ||oca.microsoft.com^
 ||ocardoniel.com^
+||ocbnihhu.com^
 ||occasion219.fun^
 ||occazon.com^
 ||occdmioqlo.com^
@@ -116310,6 +116336,7 @@ register.appsflyersdk.com^
 ||onecommunity.sbs^
 ||onedevi.com^
 ||onedmp.com^
+||onedollarstats.com^
 ||onedragon.win^
 ||onedrive-cdn.com^
 ||onedrive-download-en.com^
@@ -121973,6 +122000,7 @@ register.appsflyersdk.com^
 ||pingtcss.qq.com^
 ||pinion.gg^
 ||pinionsmamry.top^
+||pinjzp.icu^
 ||pink.clicktx.jp^
 ||pinkberrytube.com^
 ||pinkbonanza.com^
@@ -122515,6 +122543,7 @@ register.appsflyersdk.com^
 ||pixel.trackverify.com^
 ||pixel.tuko.co.ke^
 ||pixel.watch^
+||pixel.web.roku.com^
 ||pixel.wp.com^
 ||pixel.wp.pl^
 ||pixel.wp.pl^$important
@@ -129326,6 +129355,7 @@ register.appsflyersdk.com^
 ||quillkick.com^
 ||quillon.muchflaw.click^
 ||quiltyseems.lat^
+||quinchdeepish.top^
 ||quincijohnson.com^
 ||quinni.cyou^
 ||quinnwealth.com^
@@ -137282,6 +137312,7 @@ register.appsflyersdk.com^
 ||scjlpq.navitime.co.jp^
 ||scjpqut.cn^
 ||scjtfh.xyz^
+||sckfcn.cn^
 ||sckjzfahoizclt.com^
 ||sckr.com^
 ||sckxod.apostrophes.kr^
@@ -141308,6 +141339,7 @@ register.appsflyersdk.com^
 ||siofdv.fashion.dmkt-sp.jp^
 ||siom.ac.cn^
 ||sionicmedia.com^
+||sioningvexer.com^
 ||sionscormation.org^
 ||sipege.cybersvaults.com^
 ||siphdcwglypz.tech^
@@ -158169,6 +158201,7 @@ register.appsflyersdk.com^
 ||tgbpdufhyqbvhx.com^
 ||tgccct.icu^
 ||tgcfmh.com^
+||tgcnyxew.com^
 ||tgcxtq.eveniahotels.com^
 ||tgdaudience.com^
 ||tgdopodk.com^
@@ -160240,6 +160273,7 @@ register.appsflyersdk.com^
 ||toijr.xyz^
 ||toiletallowingrepair.com^
 ||toiletpaper.life^
+||toitoidotkin.shop^
 ||tojaubec.shop^
 ||tojestto.is-best.net^
 ||tojinr.com^
@@ -165469,6 +165503,7 @@ register.appsflyersdk.com^
 ||trigraff.com^
 ||trigs-sockets.com^
 ||trigub.ru^
+||trikerbefleck.com^
 ||trikerboughs.com^
 ||triki.news^
 ||trikkokidul.com^
@@ -168556,6 +168591,7 @@ register.appsflyersdk.com^
 ||uncommonconsultantllc.com^
 ||uncorecaaba.shop^
 ||uncosmetix.world^
+||uncotorture.com^
 ||uncoverarching.com^
 ||uncoveredexpert.com^
 ||uncrobator.com^
@@ -182292,6 +182328,7 @@ register.appsflyersdk.com^
 ||yavk.lat^
 ||yavli.com^
 ||yawcoynag.com^
+||yaworcein.com^
 ||yawsyi.freedomliftsystems.com^
 ||yawxae.footpatrol.com^
 ||yaxedj.vkf-renzel.de^
@@ -182911,6 +182948,7 @@ register.appsflyersdk.com^
 ||yohoads.com^
 ||yoi05.youthorganizing.net.jumia.ci^
 ||yoibbka.com^
+||yoickscaper.shop^
 ||yoifwi.levi.com.ph^
 ||yoiku-sub.yoiku.support^
 ||yoinst.com^
@@ -185048,6 +185086,7 @@ register.appsflyersdk.com^
 ||ztgblo.vidaxl.lt^
 ||ztgqvb.ekosport.co.uk^
 ||zthxobgk.icu^
+||ztlkngyj.icu^
 ||ztmixw.golfplus.fr^
 ||ztnyzi.caudalie.com^
 ||ztoash.cyberpuerta.mx^
