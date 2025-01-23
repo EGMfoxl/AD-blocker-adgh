@@ -4,7 +4,7 @@ name: Hostlist Compiler Workflow
 on:
   workflow_dispatch:  # 手动触发
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 0 * * 1'  # 每周一凌晨 0 点执行
 
 jobs:
   Sync:
