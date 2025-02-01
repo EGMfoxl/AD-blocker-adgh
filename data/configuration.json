@@ -24,7 +24,7 @@
     },
     {
       "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"
-    },
+    }
   ],
   "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
 }
