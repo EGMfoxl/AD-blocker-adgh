@@ -5,9 +5,6 @@
       "source": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/AWAvenue-Ads-Rule.txt"
     },
     {
-      "source": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt"
-    },
-    {
       "source": "https://raw.githubusercontent.com/cjx82630/cjxlist/refs/heads/master/cjx-annoyance.txt"
     },
     {
@@ -18,9 +15,6 @@
     },
     {
       "source": "https://raw.githubusercontent.com/easylist/easylist/refs/heads/gh-pages/easyprivacy.txt"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt"
     },
     {
       "source": "https://small.oisd.nl"
@@ -35,31 +29,7 @@
       "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"
     },
     {
-      "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt"
-    },
-    {
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt"
     }
   ],
   "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
