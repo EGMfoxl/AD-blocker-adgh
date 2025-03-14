@@ -10,8 +10,7 @@
   
 - **[规则（Github）](https://raw.githubusercontent.com/EGMfoxl/AD-blocker-adgh/refs/heads/main/rules.txt)**
 - **[规则(jsDelivr(cdn)反代订阅地址)](https://cdn.jsdelivr.net/gh/EGMfoxl/AD-blocker-adgh@main/rules.txt)**
-
+- - **[jsDeliver(cdn)反代订阅地址刷新](https://purge.jsdelivr.net/gh/EGMfoxl/AD-blocker-adgh@main/rules.txt)**
 </ul>
 
-- **[jsDeliver(cdn)地址刷新](https://purge.jsdelivr.net/gh/EGMfoxl/AD-blocker-adgh@main/rules.txt)**
-- **[HostlistCompiler项目地址](https://github.com/AdguardTeam/HostlistCompiler)**
+**[HostlistCompiler项目地址](https://github.com/AdguardTeam/HostlistCompiler)**
