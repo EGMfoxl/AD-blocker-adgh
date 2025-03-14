@@ -13,4 +13,5 @@
 
 </ul>
 
+**[jsDeliver(cdn)地址刷新](https://purge.jsdelivr.net/gh/EGMfoxl/AD-blocker-adgh@main/rules.txt)**
 **[HostlistCompiler项目地址](https://github.com/AdguardTeam/HostlistCompiler)**
