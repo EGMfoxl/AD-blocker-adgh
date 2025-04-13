@@ -12,7 +12,7 @@ with open(file_path, "r", encoding="utf-8") as file:
     lines = file.readlines()
 
 comments = [line for line in lines if line.strip().startswith('!')]  # 注释行
-filters = [line for line in lines if line.strip() and not line.strip().startswith('!')]  # 非空且非注释行
+filters = [line for line in lines if line.rstrip('\n').strip() and not line.lstrip().startswith('!')]  # 非空且非注释行
 
 # 对规则行排序
 filters.sort(key=lambda x: x.strip().lower())
