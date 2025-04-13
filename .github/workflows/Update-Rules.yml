@@ -11,12 +11,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 检出仓库代码
-      - name: Checkout code
+      - name: Checkout and Setup Node
         uses: actions/checkout@v4
-
-      # 设置 Node.js 环境
-      - name: Set up Node.js
         uses: actions/setup-node@v4
 
       # 生成规则
