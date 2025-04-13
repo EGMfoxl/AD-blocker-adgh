@@ -25,7 +25,7 @@ with open(file_path, "w", encoding="utf-8") as file:
     file.writelines(sorted_lines)
 
 # 统计非注释且非空行数
-line_count = $(grep -vE '^(!|$)' "rules.txt" | wc -l)
+line_count = len(filters) - 1
 
 # 更新 README.md 中的规则计数和更新时间
 subprocess.run(f"sed -i 's/^更新时间:.*/更新时间: {beijing_time} （北京时间） /g' README.md", shell=True)
